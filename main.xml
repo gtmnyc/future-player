@@ -1,0 +1,50 @@
+<xml>
+  <dir>
+    <title>Movies</title>
+    <link>https://archive.org/download/moviesmain/moviesmain.xml</link>
+  </dir>
+  
+  <dir>
+    <title>Tv Shows</title>
+    <link>file://lists.xml</link>
+  </dir>
+
+  <dir>
+    <title>Live TV</title>
+    <link>https://archive.org/download/livetv_201801/livetv.xml</link>
+  </dir>
+  
+   <dir>
+    <title>Live Sport</title>
+    <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
+  </dir>
+
+  
+
+  <dir>
+    <title>Actors</title>
+    <link>file://actors.xml</link>
+  </dir>
+
+  <dir>
+    <title>Music</title>
+    <link>file://music.xml</link>
+  </dir>
+
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
+
+  <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+  </dir>
+
+  <plugin>
+    <name>Testings</name>
+    <link>plugin://plugin.video.jenplugin/?action=developer</link>
+    <thumbnail></thumbnail>
+    <summary>Testings</summary>
+  </plugin>
+</xml>
