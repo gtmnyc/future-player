@@ -1,12 +1,12 @@
 <xml>
   <dir>
     <title>Movies</title>
-    <link>https://github.com/gtmnyc/future-player/blob/master/moviesmain.xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/movies.xml</link>
   </dir>
   
   <dir>
     <title>Tv Shows</title>
-    <link>https://github.com/gtmnyc/future-player/blob/master/tv.xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/tv.xml</link>
   </dir>
 
   <dir>
@@ -17,12 +17,12 @@
 
    <dir>
     <title>Live News</title>
-    <link>https://github.com/gtmnyc/future-player/blob/master/news.xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/news.xml</link>
   </dir>
 
   <dir>
     <title>Stand up</title>
-    <link>https://github.com/gtmnyc/future-player/blob/master/updated-UK%20Sitcom.xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/updated-UK%20Sitcom.xml</link>
   </dir>
 
   <dir>
