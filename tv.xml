@@ -25,6 +25,11 @@
   </dir>
   
 <dir>
+    <title>Sitcoms</title>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/updated-UK%20Sitcom.xml</link>
+  </dir>
+  
+<dir>
    <title>Classic Tv</title>
    <tmdb>list/38976</tmdb>
 </dir>
