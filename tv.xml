@@ -23,6 +23,11 @@
     <title>Soaps</title>
     <link>https://archive.org/download/soaps/soaps.xml</link>
   </dir>
+  
+<dir>
+   <title>Classic Tv</title>
+   <tmdb>list/38976</tmdb>
+</dir>
 
 <dir>
   <title>TV Collection</title>
