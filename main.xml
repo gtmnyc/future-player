@@ -14,13 +14,21 @@
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/iptv.xml</link>
   </dir>
   
-
+   <dir>
+    <title>Live Sport</title>
+    <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
+  </dir>
+  
    <dir>
     <title>Live News</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/news.xml</link>
   </dir>
 
-
+  <dir>
+    <title>Kids</title>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/kids.xml</link>
+  </dir>
+  
   <dir>
     <title>Search Trakt</title>
     <trakt>search</trakt>
