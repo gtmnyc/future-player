@@ -1,0 +1,34 @@
+<xml>
+  <dir>
+    <title>Movies</title>
+    <link>https://github.com/gtmnyc/future-player/blob/master/movies.xml</link>
+  </dir>
+
+  <dir>
+    <title>Screeners</title>
+    <link>https://github.com/gtmnyc/future-player/blob/master/screeners%20(2).xml</link>
+  </dir>
+  
+  <dir>
+    <title>Collections</title>
+    <link>https://archive.org/download/Screeners2/Collections.xml</link>
+  </dir>
+  
+
+  <dir>
+    <title>Search Trakt</title>
+    <trakt>search</trakt>
+  </dir>
+
+  <dir>
+    <title>Search TMDB</title>
+    <tmdb>search</tmdb>
+  </dir>
+
+  <plugin>
+    <name>Testings</name>
+    <link>plugin://plugin.video.jenplugin/?action=developer</link>
+    <thumbnail></thumbnail>
+    <summary>Testings</summary>
+  </plugin>
+</xml>
