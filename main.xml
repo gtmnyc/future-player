@@ -1,17 +1,17 @@
 <xml>
   <dir>
     <title>Movies</title>
-    <link>https://archive.org/download/moviesmain/moviesmain.xml</link>
+    <link>https://github.com/gtmnyc/future-player/blob/master/moviesmain.xml</link>
   </dir>
   
   <dir>
     <title>Tv Shows</title>
-    <link>file://lists.xml</link>
+    <link>https://github.com/gtmnyc/future-player/blob/master/tv.xml</link>
   </dir>
 
   <dir>
     <title>Live TV</title>
-    <link>https://archive.org/download/livetv_201801/livetv.xml</link>
+    <link>https://github.com/gtmnyc/future-player/blob/master/iptv.xml</link>
   </dir>
   
    <dir>
@@ -19,16 +19,14 @@
     <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
   </dir>
 
-  
-
-  <dir>
-    <title>Actors</title>
-    <link>file://actors.xml</link>
+   <dir>
+    <title>Live News</title>
+    <link>https://github.com/gtmnyc/future-player/blob/master/news.xml</link>
   </dir>
 
   <dir>
-    <title>Music</title>
-    <link>file://music.xml</link>
+    <title>Stand up</title>
+    <link>https://github.com/gtmnyc/future-player/blob/master/updated-UK%20Sitcom.xml</link>
   </dir>
 
   <dir>
