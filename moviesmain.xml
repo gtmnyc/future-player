@@ -1,20 +1,24 @@
 <xml>
   <dir>
     <title>Movies</title>
-    <link>https://github.com/gtmnyc/future-player/blob/master/movies.xml</link>
+    <link>https://raw.githubusercontent.com/flhthemi/Video-On-Tap/master/xmls/movies/my_trakt_movies.xml</link>
   </dir>
 
   <dir>
     <title>Screeners</title>
-    <link>https://github.com/gtmnyc/future-player/blob/master/screeners%20(2).xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/screeners%20(2).xml</link>
   </dir>
   
   <dir>
     <title>Collections</title>
-    <link>https://archive.org/download/Screeners2/Collections.xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/Collections.xml</link>
   </dir>
   
-
+ <dir>
+    <title>Years</title>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/movie-years.xml</link>
+  </dir>
+  
   <dir>
     <title>Search Trakt</title>
     <trakt>search</trakt>
