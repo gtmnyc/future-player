@@ -1,0 +1,21 @@
+<dir>
+  <title>My Trakt Movies</title>
+  <link>https://raw.githubusercontent.com/flhthemi/Video-On-Tap/master/xmls/movies/my_trakt_movies.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/flhthemi/Video-On-Tap/master/xmls/artwork/flht_trakt.png</thumbnail>
+</dir>
+
+<dir>
+  <title>My TMDB Movies</title>
+  <link>https://raw.githubusercontent.com/flhthemi/Video-On-Tap/master/xmls/movies/my_tmdb_movies.xml</link>
+  <thumbnail>https://raw.githubusercontent.com/flhthemi/Video-On-Tap/master/xmls/artwork/tmdb.png</thumbnail>
+<dir>
+
+<dir>
+  <name>[COLOR AC73719]==============================[/COLOR]</name>
+</dir>
+
+  <dir>
+    <title>Lists</title>
+    <link>https://raw.githubusercontent.com/flhthemi/Video-On-Tap/master/xmls/movies/lists.xml</link>
+    <thumbnail>https://raw.githubusercontent.com/flhthemi/Video-On-Tap/master/xmls/artwork/my_lists.png</thumbnail>
+  </dir>

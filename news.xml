@@ -1,0 +1,120 @@
+<item>
+<title>Sky News</title>
+<link>
+<sublink>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8(HD)</sublink>
+<sublink>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8(SD)</sublink>
+</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb4050.png</thumbnail>
+</item>
+
+<item>
+<title>Bloomberg TV</title>
+<link>
+<sublink>https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8(UK)</sublink>
+<sublink>https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8(USA)</sublink>
+</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb1074.png</thumbnail>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>
+<sublink>http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d5070016.m3u8|X-Forwaded-For=178.208.163.66(HD)</sublink>
+<sublink>http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d2812032.m3u8|X-Forwaded-For=178.208.163.66(SD)</sublink>
+</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb2085.png</thumbnail>
+</item>
+
+<item>
+<title>BBC Parliament</title>
+<link>http://vs-hls-uk-live.akamaized.net/pool_1/live/bbc_parliament/bbc_parliament.isml/bbc_parliament-pa3%3d96000-video%3d1604032.norewind.m3u8|X-Forwaded-For=178.208.163.66</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb2072.png</thumbnail>
+</item>
+
+CNBC
+CNN
+
+<item>
+<title>NHK World News</title>
+<link>https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb3147.png</thumbnail>
+</item>
+
+<item>
+<title>Euronews</title>
+<link>http://euronews-en-b9-cdn.hexaglobe.net/536c40023843d339a1221dacb92ceed6/5a4e6988/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/playlist.m3u8</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb4604.png</thumbnail>
+</item>
+
+<item>
+<title>CGTN</title>
+<link>https://news.cgtn.com/resource/live/english/cgtn-news.m3u8</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb3211.png</thumbnail>
+</item>
+
+<item>
+<title>RT News</title>
+<link>
+<sublink>https://secure-streams.akamaized.net/rt/index2500.m3u8(HD)</sublink>
+<sublink>https://secure-streams.akamaized.net/rt/index1600.m3u8(SD)</sublink>
+</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb5314.png</thumbnail>
+</item>
+
+<item>
+<title>France 24</title>
+<link>https://www.youtube.com/watch?v=9c_Bac-17Rk</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb4560.png</thumbnail>
+</item>
+
+<item>
+<title>Al Jazeera News</title>
+<link>
+<sublink>https://english.streaming.aljazeera.net/aljazeera/english2/index4147.m3u8(HD 1080)</sublink>
+<sublink>https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8(HD 720)</sublink>
+<sublink>https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8(SD 576)</sublink>
+</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb1023.png</thumbnail>
+</item>
+
+<item>
+<title>TVC News</title>
+<link>https://www.youtube.com/watch?v=7mAKpxxCWiw</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb5882.png</thumbnail>
+</item>
+
+<item>
+<title>TRT World News</title>
+<link>https://trtworld.doracdn.com/live/smil:trtworldlive.smil/playlist.m3u8</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb5237.png</thumbnail>
+</item>
+
+<item>
+<title>Channels 24</title>
+<link>https://www.youtube.com/watch?v=EzzD0Vs0CjI</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb5520.png</thumbnail>
+</item>
+
+<item>
+<title>News 18</title>
+<link>http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-p.m3u8</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb5521.png</thumbnail>
+</item>
+
+<item>
+<title>Arirang News</title>
+<link>https://www.youtube.com/watch?v=yFNF204pIZE</link>
+<thumbnail>http://tv.sky.com/logo/800/800/skychb1066.png</thumbnail>
+</item>
+
+<item>
+<title>MSNBC</title>
+<link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on</link>
+<thumbnail>http://vignette4.wikia.nocookie.net/uncyclopedia/images/c/ca/Msnbc-logo.jpg/revision/latest?cb=20091105112316</thumbnail>
+</item>
+
+<item>
+<title>CNN</title>
+<link>http://109.123.114.178:1935/Livenewson/Livenewson19/chunklist_w1460318590.m3u8</link>
+<thumbnail>https://images.search.yahoo.com/images/view;_ylt=AwrB8pzezFJacS0AGweJzbkF;_ylu=X3oDMTIybW0zZDViBHNlYwNzcgRzbGsDaW1nBG9pZANlNmY4YzBlM2ViMTY4YmVmYzUxNmE5YzBhYzYyNTQ3YwRncG9zAzcEaXQDYmluZw--?.origin=&back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dcnn%2Blogo%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D7&w=972&h=487&imgurl=logos-download.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fcnn-logo-original-hd-png-transparent.png&rurl=http%3A%2F%2Flogos-download.com%2F68-cnn-logo-download.html&size=74.0KB&name=%3Cb%3ECNN%3C%2Fb%3E+%E2%80%93+%3Cb%3ELogos%3C%2Fb%3E+Download&p=cnn+logo&oid=e6f8c0e3eb168befc516a9c0ac62547c&fr2=piv-web&fr=mcafee&tt=%3Cb%3ECNN%3C%2Fb%3E+%E2%80%93+%3Cb%3ELogos%3C%2Fb%3E+Download&b=0&ni=21&no=7&ts=&tab=organic&sigr=11j26o45d&sigb=12v8jbfno&sigi=12mr06rv9&sigt=114v08jct&sign=114v08jct&.crumb=8CbGiZM3ugU&fr=mcafee&fr2=piv-web</thumbnail>
+</item>
