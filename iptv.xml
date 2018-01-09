@@ -1,8 +1,8 @@
-<item> 
-<title>Free TV</title> 
-<m3u>https://archive.org/download/gerrymagennis5_gmail_Iptv/iptv.m3u</m3u> 
-<thumbnail></thumbnail> 
-<fanart></fanart> 
-<info></info> 
-</item>
 
+<dir> 
+    <title>Free TV</title> 
+    <thumbnail></thumbnail> 
+    <m3u>https://archive.org/download/gerrymagennis5_gmail_Iptv/iptv.m3u</m3u> 
+    <fanart></fanart> 
+    <info> </info> 
+</dir>
