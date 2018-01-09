@@ -14,10 +14,6 @@
     <link>https://github.com/gtmnyc/future-player/blob/master/iptv.xml</link>
   </dir>
   
-   <dir>
-    <title>Live Sport</title>
-    <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
-  </dir>
 
    <dir>
     <title>Live News</title>
