@@ -2,52 +2,61 @@
   <dir>
     <title>Movies</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/moviesmain.xml</link>
+	<thumbnail>https://cdn.wallpapersafari.com/10/48/sfWn4h.jpg</thumbnail>
   </dir>
   
   <dir>
     <title>Tv Shows</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/tv.xml</link>
+	<thumbnail>http://www.aisfm.edu.in/blog/wp-content/uploads/2016/12/collage1.jpg</thumbnail>
   </dir>
 
   <dir>
     <title>Live TV</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/iptv.xml</link>
+	<thumbnail>https://pbs.twimg.com/profile_images/470474788092141569/9vxReORl.png</thumbnail>
   </dir>
   
    <dir>
     <title>Live Sport</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/sports.xml</link>
+	<thumbnail>http://www.jamesgriffinpub.ie/wp-content/uploads/2013/09/livesport.png</thumbnail>
   </dir>
   
   <dir>
     <title>Sport Reply</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/motd.xml</link>
+	<thumbnail>http://www.sky.com/shop/__12ColImages/dtv25off/Sports.png</thumbnail>
   </dir>
   
    <dir>
     <title>Live News</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/news.xml</link>
+	<thumbnail>http://www.softsolutionslimited.com/images/news/press1.jpg</thumbnail>
   </dir>
 
   <dir>
     <title>Kids</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/kids.xml</link>
+	<thumbnail>https://dm8eklel4s62k.cloudfront.net/images/sky/large/sky-kids-logo-17032016-1.png</thumbnail>
   </dir>
   
   <dir>
     <title>Search Trakt</title>
     <trakt>search</trakt>
+	<thumbnail>http://cdn.windowsreport.com/wp-content/uploads/2016/11/trakt.png</thumbnail>
   </dir>
 
   <dir>
     <title>Search TMDB</title>
     <tmdb>search</tmdb>
+	<thumbnail></thumbnail>
   </dir>
 
   <plugin>
     <name>Testings</name>
     <link>plugin://plugin.video.jenplugin/?action=developer</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://www.themoviedb.org/assets/static_cache/2dceae11589334eecd61443249261daf/images/v4/logos/208x226-stacked-green.png</thumbnail>
     <summary>Testings</summary>
   </plugin>
 </xml>
