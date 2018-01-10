@@ -1,11 +1,11 @@
-    <item>
+    <dir>
       <title>Live Events</title>
       <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
       <thumbnail>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</thumbnail>
-    </item>
+    </dir>
 	
-	 <item>
+	 <dir>
       <title>Live Sport channels</title>
-      <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/sport.m3u</link>
+      <m3u>https://raw.githubusercontent.com/gtmnyc/future-player/master/sport.m3u</m3u>
       <thumbnail>https://1.bp.blogspot.com/-8QomZx-zb1A/WDR3A9LU0hI/AAAAAAAAAaU/4DXqT79kjL0kqPqon4xWV-kObZaTblmGwCPcB/s1600/maxresdefault.jpg</thumbnail>
-    </item>
+    </dir>
