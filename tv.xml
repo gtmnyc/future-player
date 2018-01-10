@@ -25,6 +25,11 @@
   </dir>
   
 <dir>
+    <title>Quiz Shows</title>
+    <tmdb>list/44849</tmdb>
+</dir>  
+  list/44849
+<dir>
     <title>Sitcoms</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/updated-UK%20Sitcom.xml</link>
   </dir>
