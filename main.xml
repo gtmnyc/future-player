@@ -19,6 +19,11 @@
     <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
   </dir>
   
+  <dir>
+    <title>Sport Reply</title>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/motd.xml</link>
+  </dir>
+  
    <dir>
     <title>Live News</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/news.xml</link>
