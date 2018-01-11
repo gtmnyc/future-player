@@ -1,34 +1,27 @@
-<item>
-<title>Sky News</title>
-<link>
-<sublink>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8(HD)</sublink>
-<sublink>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8(SD)</sublink>
-</link>
-<thumbnail>https://www.brandwatch.com/wp-content/uploads/brandwatch/sky-news-logo.png</thumbnail>
-</item>
+
 
 <item>
 <title>Bloomberg TV</title>
 <link>
-<sublink>https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8(UK)</sublink>
-<sublink>https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8(USA)</sublink>
+ <sublink>https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8(UK)</sublink>
+ <sublink>https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8(USA)</sublink>
 </link>
-<thumbnail>https://sponsorpitch.com/assets/company-logos/bloomberg-tv-bba40230516284d3ef4e7acabac5b537.png</thumbnail>
+ <thumbnail>https://sponsorpitch.com/assets/company-logos/bloomberg-tv-bba40230516284d3ef4e7acabac5b537.png</thumbnail>
 </item>
 
 <item>
 <title>BBC News</title>
 <link>
-<sublink>http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d5070016.m3u8|X-Forwaded-For=178.208.163.66(HD)</sublink>
-<sublink>http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d2812032.m3u8|X-Forwaded-For=178.208.163.66(SD)</sublink>
+ <sublink>http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d5070016.m3u8|X-Forwaded-For=178.208.163.66(HD)</sublink>
+ <sublink>http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4%3d128000-video%3d2812032.m3u8|X-Forwaded-For=178.208.163.66(SD)</sublink>
 </link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png</thumbnail>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png</thumbnail>
 </item>
 
 <item>
 <title>BBC Parliament</title>
-<link>http://vs-hls-uk-live.akamaized.net/pool_1/live/bbc_parliament/bbc_parliament.isml/bbc_parliament-pa3%3d96000-video%3d1604032.norewind.m3u8|X-Forwaded-For=178.208.163.66</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/800px-BBC_Parliament_Logo.svg.png</thumbnail>
+ <link>http://vs-hls-uk-live.akamaized.net/pool_1/live/bbc_parliament/bbc_parliament.isml/bbc_parliament-pa3%3d96000-video%3d1604032.norewind.m3u8|X-Forwaded-For=178.208.163.66</link>
+ <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/800px-BBC_Parliament_Logo.svg.png</thumbnail>
 </item>
 
 
@@ -117,8 +110,13 @@
 <thumbnail>http://logok.org/wp-content/uploads/2014/05/CNN-logo.png</thumbnail>
 </item>
 
+
 <item>
 <title>FOX News</title>
-<link>http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36</link>
+<link>
+<sublink>http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/HD.m3u8|Referer=https%3A%2F%2Farconai.tv&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36</sublink>
+<sublink>https://videoserver1.org/live/RHFuTrG8ciO9t7ud1gg5Hg/1515713177/877e1fd192b3a58577e4387971c215a7.m3u8|Referer=https%3A%2F%2Farconai.tv&User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F59.0.3071.115%20Safari%2F537.36</sublink>
+</link>
 <thumbnail>http://images.all-free-download.com/images/graphiclarge/fox_news_65108.jpg</thumbnail>
+<fanart></fanart>
 </item>
