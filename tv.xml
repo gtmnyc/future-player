@@ -9,8 +9,15 @@
 </dir>
 
 <dir>
+   <title>New Episodes</title>
+   <tmdb>tv/today</tmdb>
+   <thumbnail></thumbnail>
+   <summary></summary>
+</dir>
+
+<dir>
     <title>Networks</title>
-    <link>https://github.com/gtmnyc/future-player/blob/master/networks.xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/networks.xml</link>
   </dir>
 
 
