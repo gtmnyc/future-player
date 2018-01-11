@@ -6,6 +6,13 @@
 	
 	 <dir>
       <title>Live Sport channels</title>
-      <m3u>https://raw.githubusercontent.com/gtmnyc/future-player/master/sport.m3u</m3u>
+      <m3u></m3u>
       <thumbnail>https://1.bp.blogspot.com/-8QomZx-zb1A/WDR3A9LU0hI/AAAAAAAAAaU/4DXqT79kjL0kqPqon4xWV-kObZaTblmGwCPcB/s1600/maxresdefault.jpg</thumbnail>
     </dir>
+	
+	
+	<item>
+	  <title>NBCSN</title>
+	  <link>http://sprtlive11.akamaized.net/hls/live/586298/nbc-sports0110142449/exp=1515723278~acl=%2Fhls%2Flive%2F586298*~data=hdntl~hmac=9755978516c1ed31b2997e74b6e7dafe98b225bd9f9e6ad9f8cef14a2b7fae49/OTT11_VIDEO_4_964000.m3u8</link>
+	  <thumbnail>http://sportsvideo.org/main/files/2015/12/NBCSN_logo.png</thumbnail>
+	</item>
