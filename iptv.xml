@@ -8,7 +8,141 @@
 </dir>
 
 <item>
-<title>Comedy Central</title>
-<link>https://videoserver2.org/live/UUP_98OSbSI2GvH4ydmYCw/1515563084/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8</link>
-<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/comedy-central-logo-1.png</thumbnail>
+	<title>Comedy Central</title>
+	<link>https://videoserver2.org/live/UUP_98OSbSI2GvH4ydmYCw/1515563084/a8107d2e6831bddc1fe8c05a804ca0c1.m3u8</link>
+	<thumbnail>https://pmcdeadline2.files.wordpress.com/2015/07/comedy-central-logo-1.png</thumbnail>
+</item>
+
+<item>
+	<title>CBC Calgary</title>
+	<link>
+	<sublink>https://cbclivedai4-i.akamaihd.net/hls/live/567230-b/event2/CBRT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+	<sublink>https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+	</link>
+	<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+	<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+	<title>CBC Charlottetown </title>
+	<link>
+	<sublink>https://cbclivedai6-i.akamaihd.net/hls/live/567239-b/event2/CBCT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+	<sublink>https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)/sublink>
+	</link>
+	<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+	<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Edmonton</title>
+<link>
+<sublink>https://cbclivedai4-i.akamaihd.net/hls/live/567231-b/event2/CBXT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Halifax</title>
+<link>
+<sublink>https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Montreal</title>
+<link>
+<sublink>https://cbclivedai3-i.akamaihd.net/hls/live/566976-b/event2/CBMT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai3-i.akamaihd.net/hls/live/566976-b/event2/CBMT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Ottawa</title>
+<link>
+<sublink>https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+
+<item>
+<title>CBC Regina</title>
+<link>
+<sublink>https://cbclivedai2-i.akamaihd.net/hls/live/566969-b/event2/CBKT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)<sublink>
+<sublink>https://cbclivedai2-i.akamaihd.net/hls/live/566969-b/event2/CBKT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)<sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC ST. Johns</title>
+<link>
+<sublink>https://cbclivedai5-i.akamaihd.net/hls/live/567236-b/event2/CBNT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai5-i.akamaihd.net/hls/live/567236-b/event2/CBNT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Toronto</title>
+<link>
+<sublink>https://cbclivedai1-i.akamaihd.net/hls/live/566940-b/event2/CBLT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai1-i.akamaihd.net/hls/live/566940-b/event2/CBLT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Windsor</title>
+<link>
+<sublink>https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Winnipeg</title>
+<link>
+<sublink>https://cbclivedai6-i.akamaihd.net/hls/live/567237-b/event2/CBWT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai6-i.akamaihd.net/hls/live/567237-b/event2/CBWT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+<item>
+<title>CBC Vancouver</title>
+<link>
+<sublink>https://cbclivedai2-i.akamaihd.net/hls/live/566968-b/event2/CBUT/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai2-i.akamaihd.net/hls/live/566968-b/event2/CBUT/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>CBC Yellowknife</title>
+<link>
+<sublink>https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(HD)</sublink>
+<sublink>https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master1.m3u8|User-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222(SD)</sublink>
+</link>
+<thumbnail>https://i.cbc.ca/1.4066392.1500303304!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/cbc-logo-horizontal.jpg</thumbnail>
+<fanart>http://www.burlingtongazette.ca/wp-content/uploads/CBC-logo.jpg</fanart>
 </item>
