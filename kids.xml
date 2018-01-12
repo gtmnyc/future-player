@@ -2,7 +2,7 @@
 <dir>
 <title>Disney</title>
 <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/disney.xml</link>
-<thumbnail></thumbnail>
+<thumbnail>https://vignette.wikia.nocookie.net/theideas/images/a/a4/Walt_disney_animation_studios_2014_big_hero_6.png/revision/latest?cb=20170209213720</thumbnail>
 </dir>
 
 
@@ -10,7 +10,7 @@
 <dir>
 <title>Furry Friends</title>
 <trakt>https://api.trakt.tv/users/shanstark71/lists/kids-furry/items</trakt>
-<thumbnail>https://vignette.wikia.nocookie.net/theideas/images/a/a4/Walt_disney_animation_studios_2014_big_hero_6.png/revision/latest?cb=20170209213720</thumbnail>
+<thumbnail></thumbnail>
 </dir>
 
 <dir>
