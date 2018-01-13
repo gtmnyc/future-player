@@ -1,0 +1,92 @@
+
+<plugin>
+<title>Chelsea vs Leicester</title>
+<info>Chelsea are only without January signing Ross Barkley, who is working towards full fitness and could play in the FA Cup third round replay with Norwich City next week.
+
+Leicester City have Jamie Vardy available after a groin injury, but Wes Morgan and Danny Simpson (both thigh) remain unavailable.</info>
+<link>
+<sublink>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=41.57.96.88</sublink>
+<sublink>http://ukdvb1.uk.to:8085/NBCSN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://ukdvb1.uk.to:8085/NBCSN/mpegts?token=hcWUvw2Ur3</sublink>
+<sublink>http://185.231.160.42/23/3/index.m3u8</sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Chelsea_vs_Leicester_City_live_Football/stream1</sublink></link>
+<referer></referer>
+<thumbnail>https://platform-static-files.s3.amazonaws.com/premierleague/badges/t8.svg</thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>Crystal Palace vs Burnley</title>
+<info>Andros Townsend and Jeffrey Schlupp (both ankle) have joined Crystal Palace's growing injury list. 
+
+Mamadou Sakho (calf), Joel Ward (groin), Scott Dann and Jason Puncheon (both knee) are long-term absentees. Ruben Loftus-Cheek (knock) is doubtful. 
+
+Loan signing Georges-Kevin Nkoudou will be part of the Burnley squad, Sean Dyche has confirmed.
+
+Ben Mee (knock) should be fit but Chris Wood and Stephen Ward (both knee) are out and Scott Arfield (hamstring) is doubtful.</info>
+<link>
+<sublink></sublink>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Crystal_Palace_vs_Burnley_live_Football/stream5</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>Huddersfield Town vs West Ham United</title>
+<info>LatestSquadsStatsRelated
+Match preview
+Huddersfield Town's Collin Quaner (thigh), Chris Lowe (foot) and Martin Cranie (ankle) have been ruled out. 
+
+Philip Billing and Michael Hefele are improving their fitness in training, says David Wagner, and January signing Terence Kongolo is in contention. 
+
+West Ham United have doubts over Winston Reid, Andy Carroll and Michail Antonio. 
+
+James Collins, Aaron Cresswell, Marko Arnautovic and Manuel Lanzini are back in training but it is unknown if they are fit to play.</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Huddersfield_Town_vs_West_Ham_United_live_Football/stream3</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title> Newcastle United vs Swansea City </title>
+<info>Newcastle United captain Jamaal Lascelles has been passed fit and goalkeeper Rob Elliot is back in training. 
+
+Florian Lejeune (foot), Jesus Gamez (ankle) and Aleksandar Mitrovic (back) are injured.
+
+Swansea City have Leroy Fer available after the midfielder's appeal against a red card was successful, but defender Kyle Naughton is still suspended.
+
+Angel Rangel (calf) is out and Renato Sanches (hamstring) and Tammy Abraham (hip) are doubtful. Ki Sung-yueng and Leon Britton are back in training and Connor Roberts could make a PL debut.</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Newcastle_United_vs_Swansea_City_live_Football/stream4</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title>Watford vs Southamptontitle>
+<info>Liverpool could give a Premier League debut to January signing from Southampton Virgil van Dijk, while top scorer Mohamed Salah is fit after a groin strain.
+
+Daniel Sturridge is back in training but Sunday will likely come too soon for Jordan Henderson (thigh) and Alberto Moreno (ankle).
+
+Manchester City are without captain Vincent Kompany and Gabriel Jesus, though the latter could be fit within two to three weeks.</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Watford_vs_Southampton_live_Football/stream2</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
+<plugin>
+<title> West Bromwich Albion vs Brighton - Hove Albion</title>
+<info>West Bromwich Albion do not expect to have James Morrison (calf) and Nacer Chadli (thigh) available for another four to five weeks. 
+
+Alan Pardew says the rest of his players are all fit, with Jonny Evans set to play.
+
+Brighton & Hove Albion are without loanee Izzy Brown, who has returned to parent club Chelsea due to a torn anterior cruciate knee ligament. 
+
+Steve Sidwell has sustained an ankle injury in addition to a back problem and is not expected to be available within the next few months.</info>
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/West_Bromwich_Albion_vs_Brighton_-_Hove_Albion_live_Football/stream6</sublink></link>
+<referer></referer>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
