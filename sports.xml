@@ -4,6 +4,12 @@
       <thumbnail></thumbnail>
     </dir>
 	
+	<dir>
+      <title>Live Hockey</title>
+      <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/hockey.xml</link>
+      <thumbnail></thumbnail>
+    </dir>
+	
 	 <dir>
       <title>Live Sport channels</title>
       <m3u></m3u>
