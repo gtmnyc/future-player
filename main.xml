@@ -19,12 +19,12 @@
   
    <dir>
     <title>Live Sport</title>
-    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/livefootball.xml</link>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/sports.xml</link>
 	<thumbnail>http://www.jamesgriffinpub.ie/wp-content/uploads/2013/09/livesport.png</thumbnail>
   </dir>
   
   <dir>
-    <title>Sport Reply</title>
+    <title>Sport Replay</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/motd.xml</link>
 	<thumbnail>http://www.sky.com/shop/__12ColImages/dtv25off/Sports.png</thumbnail>
   </dir>
