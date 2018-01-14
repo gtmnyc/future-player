@@ -1,7 +1,7 @@
     <dir>
-      <title>Live Events</title>
-      <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/sportstv.xml</link>
-      <thumbnail></thumbnail>
+      <title>Live Football</title>
+      <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/livefootball.xml</link>
+      <thumbnail>http://logodatabases.com/wp-content/uploads/2012/04/EPL-Logo.jpg</thumbnail>
     </dir>
 	
 	<dir>
