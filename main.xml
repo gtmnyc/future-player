@@ -16,19 +16,19 @@
   <dir>
     <title>Live TV</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/iptv.xml</link>
-	<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e5/ac/e4/e5ace42244f37e33863ab41ac7d27076.png</thumbnail>
+	<thumbnail>http://vodzilla.co/wp-content/uploads/2016/08/sky-q-logo-700x394.jpg</thumbnail>
 	<fanart>https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Sky_glass_logo.png/revision/latest?cb=20100428145443</fanart>
   </dir>
   
    <dir>
-    <title>SkySports</title>
+    <title>Sky Sports</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/sports.xml</link>
 	<thumbnail>https://www.sportquake.com/wp-content/uploads/2017/11/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</thumbnail>
 	<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
   </dir>
   
   <dir>
-    <title>SkySports On Demand</title>
+    <title>Sky Sports On Demand</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/motd.xml</link>
 	<thumbnail>https://www.sportquake.com/wp-content/uploads/2017/11/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</thumbnail>
 	<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
