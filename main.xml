@@ -1,44 +1,51 @@
 <xml>
   <dir>
-    <title>Movies</title>
+    <title>Sky Cinema</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/moviesmain.xml</link>
-	<thumbnail>https://cdn.wallpapersafari.com/10/48/sfWn4h.jpg</thumbnail>
+	<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/d7/Sky_Cinema_UK_2016_logo.png</thumbnail>
+	<fanart>https://i.ytimg.com/vi/q2vPpP6QpMo/maxresdefault.jpg</fanart>
   </dir>
   
   <dir>
-    <title>Tv Shows</title>
+    <title>On Demand</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/tv.xml</link>
-	<thumbnail>http://www.aisfm.edu.in/blog/wp-content/uploads/2016/12/collage1.jpg</thumbnail>
+	<thumbnail>http://static.giga.de/wp-content/uploads/2016/04/Sky-on-Demand-Banner.jpg</thumbnail>
+	<fanart>https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Sky_uk_anytime_hd2.png/revision/latest?cb=20150209175935</fanart>
   </dir>
 
   <dir>
     <title>Live TV</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/iptv.xml</link>
-	<thumbnail>https://pbs.twimg.com/profile_images/470474788092141569/9vxReORl.png</thumbnail>
+	<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/e5/ac/e4/e5ace42244f37e33863ab41ac7d27076.png</thumbnail>
+	<fanart>https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Sky_glass_logo.png/revision/latest?cb=20100428145443</fanart>
   </dir>
   
    <dir>
-    <title>Live Sport</title>
+    <title>SkySports</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/sports.xml</link>
-	<thumbnail>http://www.jamesgriffinpub.ie/wp-content/uploads/2013/09/livesport.png</thumbnail>
+	<thumbnail>https://www.sportquake.com/wp-content/uploads/2017/11/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</thumbnail>
+	<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
   </dir>
   
   <dir>
-    <title>Sport Replay</title>
+    <title>SkySports On Demand</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/motd.xml</link>
-	<thumbnail>http://www.sky.com/shop/__12ColImages/dtv25off/Sports.png</thumbnail>
+	<thumbnail>https://www.sportquake.com/wp-content/uploads/2017/11/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</thumbnail>
+	<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
   </dir>
   
    <dir>
-    <title>Live News</title>
+    <title>Sky News</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/news.xml</link>
-	<thumbnail>http://www.softsolutionslimited.com/images/news/press1.jpg</thumbnail>
+	<thumbnail>http://www.freelogovectors.net/wp-content/uploads/2012/04/sky-news-logo.jpg</thumbnail>
+	<fanart>https://up.metropol247.co.uk/martindtanderson/2017-logo-idea.png</fanart>
   </dir>
 
   <dir>
-    <title>Kids</title>
+    <title>Sky Kids</title>
     <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/kids.xml</link>
 	<thumbnail>https://dm8eklel4s62k.cloudfront.net/images/sky/large/sky-kids-logo-17032016-1.png</thumbnail>
+	<fanart>https://i.ytimg.com/vi/ccseOyWtv00/maxresdefault.jpg</fanart>
   </dir>
   
   <dir>
