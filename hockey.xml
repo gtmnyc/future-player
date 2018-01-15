@@ -1,42 +1,25 @@
 <item>
-<title>Winnipeg Jets VS Minnesota Wild 8pm AST</title>
+<title>[COLOR blue]Vancouver VS Minnesota 5:00 PST[/COLOR]</title>
 <link>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971170~id=nhlGatewayId:1091891~data=56130203~hash=3507bf3788ef4e7029afa9e9ce37705433e0f9f2/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_HOME_20180114_1514400818198/3500K/3500_complete.m3u8%7CUser-Agent=Mozilla/5.0&X-Forwarded-For=23.239.32.222</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971170~id=nhlGatewayId:1091891~data=56130203~hash=3507bf3788ef4e7029afa9e9ce37705433e0f9f2/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_HOME_20180114_1514400818198/3500K/3500_complete.m3u8(HD HOME)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971211~id=nhlGatewayId:1091891~data=56130203~hash=d7f497356093b491a96c46c702cd80b5b792e844/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_HOME_20180114_1514400818198/2500K/2500_complete.m3u8(SD HOME)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971088~id=nhlGatewayId:1091891~data=56130303~hash=eda67c611b5569f57b24feae13ec0e9551434595/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_VISIT_20180114_1514400818356/3500K/3500_complete.m3u8(HD AWAY)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971121~id=nhlGatewayId:1091891~data=56130303~hash=2c049f56c0dee697cec57657a95bac6f947177ad/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_VISIT_20180114_1514400818356/2500K/2500_complete.m3u8(SD AWAY)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971236~id=nhlGatewayId:1091891~data=56130803~hash=bb97e1d470de8bcccf99c9d9b04bba7ff488f384/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_WPGMIN_M2_COMPOSITE_3X_20180114_1514400818788/2500K/2500_complete.m3u8(MULTICAM)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062121~id=nhlGatewayId:1091891~data=56138903~hash=2ed014eebff8183116528f3ae815e5f754ba30e2/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_HOME_20180115_1514402822151/3500K/3500_complete.m3u8(HD HOME)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062082~id=nhlGatewayId:1091891~data=56138903~hash=848e1635f6047d3079a3dd0cffc0d03ec12e7b04/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_HOME_20180115_1514402822151/2500K/2500_complete.m3u8(SD HOME)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516061932~id=nhlGatewayId:1091891~data=56139003~hash=4e3fdb55c1efdfb984108e554a0ce7af1cbed1ea/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_VISIT_20180115_1514402822300/3500K/3500_complete.m3u8(HD AWAY)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062156~id=nhlGatewayId:1091891~data=56139003~hash=4b956fe1ef0fceda9a4a3371d42491ddc94e2396/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_VISIT_20180115_1514402822300/2500K/2500_complete.m3u8</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062210~id=nhlGatewayId:1091891~data=56139503~hash=8a818c3a085730175e416412f4dc76c56ae60644/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_COMPOSITE_3X_20180115_1514402822714/2500K/2500_complete.m3u8(MULITICAM)</sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>https://cdn.bleacherreport.net/images/team_logos/328x328/nhl.png</thumbnail>
+<fanart>https://wallpapercave.com/wp/Mr6NtAb.jpg</fanart>
 <fanart></fanart>
 </item>
 
 <item>
-<title>Boston Bruins VS Montreal Canadiens 8pm AST</title>
+<title>[COLOR blue]Rangers VS Pittsburgh 4:30AM PST[/COLOR]</title>
 <link>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971306~id=nhlGatewayId:1091891~data=56132103~hash=218dce8cb0857ef76cd1d8f2ebee6a7a3cc6d0f6/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_BOSMTL_M2_NATIONAL_20180114_1514401235669/3500K/3500_complete.m3u8(HD NATIONAL)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971333~id=nhlGatewayId:1091891~data=56132103~hash=0663642291201092837bc48005fb0ae4db01a7c4/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_BOSMTL_M2_NATIONAL_20180114_1514401235669/2500K/2500_complete.m3u8(SD NATIONAL)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971380~id=nhlGatewayId:1091891~data=56132203~hash=b32236650f847a53674824ae176039e508f0f692/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_BOSMTL_M2_VISIT_20180114_1514401235814/3500K/3500_complete.m3u8(HD AWAY)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971413~id=nhlGatewayId:1091891~data=56132203~hash=d58afcfc77fbb58180f8c648145636cb89be6028/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_BOSMTL_M2_VISIT_20180114_1514401235814/2500K/2500_complete.m3u8(SD AWAY)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971542~id=nhlGatewayId:1091891~data=56132803~hash=ac16dd5045abe238d62c490bb7ebb8a2310502e7/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_BOSMTL_M2_COMPOSITE_3X_20180114_1514401236252/2500K/2500_complete.m3u8(MULITICAM)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971455~id=nhlGatewayId:1091891~data=56132103~hash=34e1dfc14c53da27f5267b05c863a14a64a5d729/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_BOSMTL_M2_NATIONAL_20180114_1514401235669/3500K/3500_complete.m3u8(HD FRENCH)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515971515~id=nhlGatewayId:1091891~data=56132103~hash=7476a4cd251d2871a8e255dca14192a2640ad18e/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_BOSMTL_M2_NATIONAL_20180114_1514401235669/2500K/2500_complete.m3u8(SD FRENCH)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516059039~id=nhlGatewayId:1091891~data=56542603~hash=28b37f50469d906aaaad9fb3d19a62a7a18872d0/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_NYRPIT_M2_NATIONAL_20180115_1515533967599/3500K/3500_complete.m3u8(HD NATIONAL)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516059091~id=nhlGatewayId:1091891~data=56542603~hash=aba52021138cc73422b9702abd350a059e0150a9/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_NYRPIT_M2_NATIONAL_20180115_1515533967599/2500K/2500_complete.m3u8(SD NATIONAL)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516059121~id=nhlGatewayId:1091891~data=56543203~hash=eeb1b0717c076154cab8389396480f8397195ec0/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_NYRPIT_M2_COMPOSITE_3X_20180115_1515533968216/2500K/2500_complete.m3u8(MULITICAM)</sublink>
 </link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title>Flyers VS Devils 8pm AST</title>
-<link>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515970889~id=nhlGatewayId:1091891~data=56131103~hash=8611605a2f1c87ae4557030c7925dc09b79a9ac2/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_PHINJD_M2_HOME_20180114_1514401120042/3500K/3500_complete.m3u8(HD HOME)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515970925~id=nhlGatewayId:1091891~data=56131103~hash=2894f6a84d75660a1cae9ef56c9eccb88ef7530e/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_PHINJD_M2_HOME_20180114_1514401120042/2500K/2500_complete.m3u8(SD HOME)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515970789~id=nhlGatewayId:1091891~data=56131203~hash=0c79f3b6ed2cf05b41d62645d4b1d1db136d887d/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_PHINJD_M2_VISIT_20180114_1514401120212/3500K/3500_complete.m3u8(HD AWAY)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515970839~id=nhlGatewayId:1091891~data=56131203~hash=68eb6f424a422dd71b4f5dd29faf5969047d6a8d/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_PHINJD_M2_VISIT_20180114_1514401120212/2500K/2500_complete.m3u8(SD AWAY)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1515970977~id=nhlGatewayId:1091891~data=56131703~hash=091351d278d730b725c495722d88b936df7a43a2/ls04/nhl/2018/01/14/NHL_GAME_VIDEO_PHINJD_M2_COMPOSITE_3X_20180114_1514401120601/2500K/2500_complete.m3u8(MULITICAM)</sublink>
-</link>
-<thumbnail></thumbnail>
+<thumbnail>https://cdn.bleacherreport.net/images/team_logos/328x328/nhl.png</thumbnail>
+<fanart>https://wallpapercave.com/wp/Mr6NtAb.jpg</fanart>
 <fanart></fanart>
 </item>
