@@ -18,7 +18,7 @@
 	
 	 <dir>
       <title>Live Sport channels</title>
-      <m3u></m3u>
+      <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/sportstv.xml</link>
       <thumbnail>https://1.bp.blogspot.com/-8QomZx-zb1A/WDR3A9LU0hI/AAAAAAAAAaU/4DXqT79kjL0kqPqon4xWV-kObZaTblmGwCPcB/s1600/maxresdefault.jpg</thumbnail>
     </dir>
 	
