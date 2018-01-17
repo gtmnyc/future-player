@@ -1,23 +1,12 @@
+Dan Longtin, [17.01.18 02:15]
 <item>
-<title>[COLOR blue]Vancouver VS Minnesota 5:00 PST[/COLOR]</title>
+<title>[COLOR blue]San Jose VS Arizona 6:00pm PST[/COLOR]</title>
 <link>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062121~id=nhlGatewayId:1091891~data=56138903~hash=2ed014eebff8183116528f3ae815e5f754ba30e2/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_HOME_20180115_1514402822151/3500K/3500_complete.m3u8(HD HOME)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062082~id=nhlGatewayId:1091891~data=56138903~hash=848e1635f6047d3079a3dd0cffc0d03ec12e7b04/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_HOME_20180115_1514402822151/2500K/2500_complete.m3u8(SD HOME)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516061932~id=nhlGatewayId:1091891~data=56139003~hash=4e3fdb55c1efdfb984108e554a0ce7af1cbed1ea/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_VISIT_20180115_1514402822300/3500K/3500_complete.m3u8(HD AWAY)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062156~id=nhlGatewayId:1091891~data=56139003~hash=4b956fe1ef0fceda9a4a3371d42491ddc94e2396/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_VISIT_20180115_1514402822300/2500K/2500_complete.m3u8</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516062210~id=nhlGatewayId:1091891~data=56139503~hash=8a818c3a085730175e416412f4dc76c56ae60644/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_VANMIN_M2_COMPOSITE_3X_20180115_1514402822714/2500K/2500_complete.m3u8(MULITICAM)</sublink>
-</link>
-<thumbnail>https://cdn.bleacherreport.net/images/team_logos/328x328/nhl.png</thumbnail>
-<fanart>https://wallpapercave.com/wp/Mr6NtAb.jpg</fanart>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR blue]Rangers VS Pittsburgh 4:30AM PST[/COLOR]</title>
-<link>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516059039~id=nhlGatewayId:1091891~data=56542603~hash=28b37f50469d906aaaad9fb3d19a62a7a18872d0/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_NYRPIT_M2_NATIONAL_20180115_1515533967599/3500K/3500_complete.m3u8(HD NATIONAL)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516059091~id=nhlGatewayId:1091891~data=56542603~hash=aba52021138cc73422b9702abd350a059e0150a9/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_NYRPIT_M2_NATIONAL_20180115_1515533967599/2500K/2500_complete.m3u8(SD NATIONAL)</sublink>
-<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516059121~id=nhlGatewayId:1091891~data=56543203~hash=eeb1b0717c076154cab8389396480f8397195ec0/ls04/nhl/2018/01/15/NHL_GAME_VIDEO_NYRPIT_M2_COMPOSITE_3X_20180115_1515533968216/2500K/2500_complete.m3u8(MULITICAM)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516237908~id=nhlGatewayId:1091891~data=56612203~hash=37d88516923e5743339fc30e1b5ec8b31ca16d8b/ls04/nhl/2018/01/17/NHL_GAME_VIDEO_SJSARI_M2_HOME_20180117_1515785290520/3500K/3500_complete.m3u8(HD HOME)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516237942~id=nhlGatewayId:1091891~data=56612203~hash=c68a392bea71b485397f6b3864acf577eae9aae2/ls04/nhl/2018/01/17/NHL_GAME_VIDEO_SJSARI_M2_HOME_20180117_1515785290520/2500K/2500_complete.m3u8(SD HOME)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516237819~id=nhlGatewayId:1091891~data=56612303~hash=f7a57b5d392c4856dcae0422e9d026912f932da2/ls04/nhl/2018/01/17/NHL_GAME_VIDEO_SJSARI_M2_VISIT_20180117_1515785290690/3500K/3500_complete.m3u8(HD AWAY)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516237854~id=nhlGatewayId:1091891~data=56612303~hash=c41ae2e272e191cf1f845b21e53510b43d9a6089/ls04/nhl/2018/01/17/NHL_GAME_VIDEO_SJSARI_M2_VISIT_20180117_1515785290690/2500K/2500_complete.m3u8(SD AWAY)</sublink>
+<sublink>http://hlslive-l3c.med2.med.nhl.com/token=exp=1516237967~id=nhlGatewayId:1091891~data=56612803~hash=63646d8d90aff39e3adf1f196e2b2e84de0e90fd/ls04/nhl/2018/01/17/NHL_GAME_VIDEO_SJSARI_M2_COMPOSITE_3X_20180117_1515785291087/2500K/2500_complete.m3u8(MULITICAM)</sublink>
 </link>
 <thumbnail>https://cdn.bleacherreport.net/images/team_logos/328x328/nhl.png</thumbnail>
 <fanart>https://wallpapercave.com/wp/Mr6NtAb.jpg</fanart>
