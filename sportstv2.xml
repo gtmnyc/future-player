@@ -1,0 +1,600 @@
+<item>
+<title>All Sports TV</title>
+<link>
+<sublink>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>BT Sports 1</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/75769/bt1</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>BT Sports 2</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/75772/bt2</sublink></link>
+<thumbnail>https://i.imgur.com/D5akbl9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>Bein Sports</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73658/Bein-Sport-%C3%91-/-Eventos---Max</sublink></link>
+<thumbnail>https://i.imgur.com/UNTSjIM.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>Canal Eurosport HD</title>
+<link>
+<sublink>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>CBS Sports</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/74553/CBS-Sport-(HD)</sublink></link>
+<thumbnail>https://i.imgur.com/Xuo4pSe.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>CTV Fishing</title>
+<link>
+<sublink>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Dubai Racing</title>
+<link>
+<sublink>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Dubai Sports</title>
+<link>
+<sublink>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>ESPN</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-40</sublink></link> 
+<thumbnail>https://i.imgur.com/5PSiYaz.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>ESPN 2</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-2-41</sublink></link> 
+<thumbnail>https://i.imgur.com/YgcSYlh.png</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>ESPN News</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87</sublink></link> 
+<thumbnail>https://i.imgur.com/0hYtseT.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>Euro Sport</title>
+<link>
+<sublink>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Euro Sport 1 EN 720</title>
+<link>
+<sublink>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Euro Sport 1 EN 1080</title>
+<link>
+<sublink>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Euro Sport 1 EN 1080</title>
+<link>
+<sublink>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Euro Sport France 720</title>
+<link>
+<sublink>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Euro Sport France 1080</title>
+<link>
+<sublink>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Football Fanatik TV</title>
+<link>
+<sublink>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</sublink>
+</link>
+<thumbnail></thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>Fox Sports 1</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/71971/Fox-Sport-1-(HD)</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/bqkqq6V.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>Fox Sports 1 ALTERNATE</title>
+<link>
+<sublink>http://hlslinear-akc.med1.foxsportsgo.com/hdnts=exp=1516142780~acl=/*~id=d3e31e05-6eb1-43c3-befb-8d6c5d1f92d3-80585-1d1cb9a679f9222ddf45a6c9ea5b60b674ff067c~hmac=3561b4dcb3ea29cf33a17695104aa8ac3aaad7971dcd9f0974db7eede5fca1fa/d395b2fba6c513daaf4447669cba086a/ls02/foxsports/FOX_SPORTS_1/live/2017/12/22/35889407/2500K/2500_slide_ads.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/bqkqq6V.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Fox Sports 2</title>
+<link>
+<sublink>http://hlslinear-l3c.med2.foxsportsgo.com/token=exp=1516142913~id=d3e31e05-6eb1-43c3-befb-8d6c5d1f92d3-80585-1d1cb9a679f9222ddf45a6c9ea5b60b674ff067c~hash=b8d18cad02996c33cf8a0d7d7429e1a20ea48e7f/ls01/foxsports/FOX_SPORTS_2_DUAL_ORIGIN/live/2018/01/03/36892326/2500K/2500_slide_ads.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/f9HTyvA.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Fox Sports News</title>
+<link>
+<sublink>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4fgzK9E.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Fox Sports Sun</title>
+<link>
+<sublink>http://hlslinear-l3c.med1.foxsportsgo.com/token=exp=1516143376~id=d3e31e05-6eb1-43c3-befb-8d6c5d1f92d3-80585-1d1cb9a679f9222ddf45a6c9ea5b60b674ff067c~hash=29273c894baac265e515e1d25bc23a786c051c9c/ls02/foxsports/FOXSPORTS_LINEAR_307/live/2018/01/11/37593998/2500K/2500_slide_ads.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/vxDR2aX.png</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>Golf Channel</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/MP1ZuHy.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>MLB Network</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/MLB-Network-51</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/4ZDEzZG.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>Motor Sport</title>
+<link>
+<sublink>http://motorsport.hopto.org:8080/</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>NBA TV</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBA-TV-53</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/HNxkm4G.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>NBA TV Alternate</title>
+<link>
+<sublink>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</sublink>
+<sublink>http://lit-cove-15301.herokuapp.com/?sport=nba&uuid=sur8Yk&hst=qALEpvMo4YzBgBNY50wPn3x8&url=neunlds289.akamaized.net%2Fnlds%2Fnba%2Fbos%2Fas%2Flive%2Fnlncp%2Fbos_hd_ced.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/HNxkm4G.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>NBC Sports</title>
+<link>
+<sublink>http://sprtlive9.akamaized.net/hls/live/586296/nbc-sports0115093759/exp=1516145108~acl=%2Fhls%2Flive%2F586296*~data=hdntl~hmac=769cdb58e03debfaeeaa9e1c765082a6884132a29bae43813ac2e76d1020a53b/OTT09_VIDEO_6_364000_vod.m3u8?token=st=1516058706~exp=1516058826~acl=/hls/live/586296/nbc-sports0115093759/*~hmac=84971c16fa3a84c9db16e4e744ee45ab9c2fb0f740c95da7478cc89dec142835</sublink>
+</link>
+<thumbnail>https://i.imgur.com/eU3ogZj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>NBCSN</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBCSN-55</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/IazDoYV.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>NCAA Sports</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/75275/Tennis:-WTA-Tour-Sydney/-Barcelona-vs-Celta-de-Vigo/-NCAA:-Ohio-State-vs-Maryland</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/aHD4jJe.png</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<plugin> 
+<title>NFL Network</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NFL-Network-56</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>NFL Alternate</title>
+<link>
+<sublink>https://pcva2.manifest.auditude.com/auditude/live/30012020-2020-4e46-4c4e-4554574f524b/1626/b57dbc31-5bf5-4e30-a658-3368b38c84f4/aHR0cHM6Ly9uZmxobHNsaXZlMS1pLmFrYW1haWhkLm5ldC9obHMvbGl2ZS81MTcyOTkvbmZsbi8xNTk2ay9uZmxuLm0zdTg.m3u8?pttrackingversion=v1&u=20b08eb6ec1a4ea06d4f1ff0aa83a808&pttrackingmode=sstm&g=1000003&z=264057&k=iu=/4595/nfl.live/web;method=server;cust_params=slot%3Dvideo%26s1%3Dlive%26s2%3Dnfln_3rd%26s3%3D3rd_auth_web%26affiliate%3DNFLN&ptcueformat=turner</sublink>
+</link>
+<thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>NFL Alternate II</title>
+<link>
+<sublink>https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>NFL Now</title>
+<link>
+<sublink>https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_1200k.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/SMsjmJN.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/master.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 2</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_0_256000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 3</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_1_464000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 4</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_2_664000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 5</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_3_964000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 6</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_4_1464000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 7</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_5_2264000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 7</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Olympic Channel 7</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>PAC 12 Network</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Pac-12-Network-97</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>PAC 12 Arizona</title>
+<link>
+<sublink>http://xrxs.net/video/live-p12ariz-4728.m3u8?</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>PAC 12 Bay Area</title>
+<link>
+<sublink>http://xrxs.net/video/live-p12baya-1164.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>PAC 12 L.A.</title>
+<link>
+<sublink>http://xrxs.net/video/live-p12losa-1164.m3u8?</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>PAC 12 Mountain</title>
+<link>
+<sublink>http://xrxs.net/video/live-p12moun-1164.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>PAC 12 National</title>
+<link>
+<sublink>http://xrxs.net/video/live-p12netw-1164.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>PAC 12 Oregon</title>
+<link>
+<sublink>http://xrxs.net/video/live-p12oreg-1164.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>PAC 12 Washington</title>
+<link>
+<sublink>http://xrxs.net/video/live-p12wash-4728.m3u8?</sublink>
+</link>
+<thumbnail>https://i.imgur.com/4bpdUWj.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Poker Central</title>
+<link>
+<sublink>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/uVC4RjF.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>Premier League Events</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/73641/Premier-League-/-Events---Max</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/UNTSjIM.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>Racing.com</title>
+<link>
+<sublink>https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Sky Racing 1</title>
+<link>
+<sublink>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/NxBPp1r.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Sky Racing 2</title>
+<link>
+<sublink>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/NxBPp1r.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Sports Night</title>
+<link>
+<sublink>rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Super Sport 1</title>
+<link>
+<sublink>http://81.7.13.162/hls/ss1/index.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/hZgp6jo.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Super Sport 2</title>
+<link>
+<sublink>http://81.7.13.162/hls/ss2/index.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/hZgp6jo.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Super Sport 3</title>
+<link>
+<sublink>http://81.7.13.162/hls/ss3/index.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/hZgp6jo.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Super Sport 4</title>
+<link>
+<sublink>http://81.7.13.162/hls/ss4/index.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/hZgp6jo.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Thoroughbred Central</title>
+<link>
+<sublink>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<item>
+<title>Versus HD</title>
+<link>
+<sublink>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</sublink>
+</link>
+<thumbnail>https://i.imgur.com/hZgp6jo.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+<plugin> 
+<title>WWE Network</title> 
+<link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/WWE-Network-67</sublink>
+</link> 
+<thumbnail>https://i.imgur.com/zNsCeV9.jpg</thumbnail> 
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</plugin>
+
+<item>
+<title>WWE Network Alternative</title>
+<link>
+<sublink>http://hlslive-akc.med2.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8%7CCookie=mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa375f8d486eaccd0264e54c83ec9ce8d8733cb679fb40a7ac502489b91de83f8eeda0dc050b49047f40c0e3717af81da87a435a620dd91ec74f12d4af943a9da952285c0fa7d19cb7dcac05c5d6d08cea0758e5cf1e1cf00376d944271201052a7410c6de5b4656e645b13d6e13982b5c27f2914f8d6d9388f7cd8216e5bcc6ff7e26d6cfd159d4cc66979c4072e06b97d6b52e2fdbefe8ec6a7996fa66f3d4ac969d18e5bc7f916b8cea5926e1bc6bc7e97799ca54c9e5e6ce7b73a7eef970e61b45adc41a4e46f00ae6a1b76968ff96d0ad563a5fd98a7d6e7c959c43a184f9e57b5b28532443432037742623ec8caa8d692e8154df6fe7317e6ea279a12ce7692e97df4c49133796eca08a8b2de286f34be1ff4e63a56c6b0d1d1c62e5dfa60561c6d03df4e2f084a3b8c90ea0166f9112bbab1db50c2bc371fde9de61f860199a5640c75928f5bf09a0f5a0b2b67730ef7f0de9a04407e54353533917ca4f484ed28da85ac66d5b6b4a5f315e9818dd090e1dba2a45b093adf439603d543d7a87cb4a54d89377e81b6749ae33fdc1dc0a95cba8408cf466e41625492da8b0e51585378a743336e4db19910dd80282d814690bb39c3aa508036cbc285649fc332931f258844130b70d2558248c85bf0e542d9a2cac1acda</sublink>
+</link>
+<thumbnail>https://i.imgur.com/zNsCeV9.jpg</thumbnail>
+<fanart>https://i.imgur.com/XITnkbK.jpg</fanart> 
+</item>
+
+
+
+
