@@ -1,4 +1,10 @@
-
+<dir> 
+    <title>UK List</title> 
+    <thumbnail></thumbnail> 
+    <m3u>https://raw.githubusercontent.com/gtmnyc/future-player/master/jen.m3u</m3u> 
+    <fanart></fanart> 
+    <info> </info> 
+</dir>
 <item>
 <title>3E</title>
 <link>
