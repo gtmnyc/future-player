@@ -1,2280 +1,1144 @@
 <item>
-	<title>Thumbnail</title>
-	<link>Fanart</link>
-	<thumbnail></thumbnail>
+	<title>Channel</title>
+	<link>Link</link>
+	<thumbnail>Thumbnail</thumbnail>
+	<fanart>Fanart</fanart>
 </item>
 <item>
 	<title>3E</title>
 	<link> http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>4 Music</title>
 	<link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>A\\\\u0026E</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/A+E-21</link>
-	<thumbnail></thumbnail>
+	<title>A&E</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/A+E-21</link>
+	<thumbnail>https://i.imgur.com/clJ9AfI.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/clJ9AfI.png</title>
-	<link>ABC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-83</title>
-	<link>https://i.imgur.com/HbC7fAG.jpg</link>
-	<thumbnail></thumbnail>
+	<title>ABC</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ABC-83</link>
+	<thumbnail>https://i.imgur.com/HbC7fAG.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>ABC Family</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Freeform-(ABC-Family)-24</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Freeform-(ABC-Family)-24</link>
+	<thumbnail>https://i.imgur.com/DUj0lZM.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/DUj0lZM.png</title>
-	<link>ABC News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-News-5</title>
-	<link>https://i.imgur.com/5boHXeQ.jpg</link>
-	<thumbnail></thumbnail>
+	<title>ABC News</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ABC-News-5</link>
+	<thumbnail>https://i.imgur.com/5boHXeQ.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>ABC News Alternate</title>
 	<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.imgur.com/5boHXeQ.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/5boHXeQ.jpg</title>
-	<link>Al Jazara</link>
+	<title>Al Jazara</title>
+	<link>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</title>
-	<link>All Sports TV</link>
+	<title>All Sports TV</title>
+	<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</title>
-	<link>AMC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/AMC-25</title>
-	<link>https://i.imgur.com/3e91B1y.jpg</link>
-	<thumbnail></thumbnail>
+	<title>AMC</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/AMC-25</link>
+	<thumbnail>https://i.imgur.com/3e91B1y.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>AMC Alternate</title>
 	<link>https://videoserver1.org/live/711HG2goV3t4uPeEJMc1bQ/1516145139/c0371e35a2b3244f5edda7947172d954.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.imgur.com/3e91B1y.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/3e91B1y.jpg</title>
-	<link>Animal Planet</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Animal-Planet-26</title>
-	<link>https://i.imgur.com/N6I8yUm.jpg</link>
-	<thumbnail></thumbnail>
+	<title>Animal Planet</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Animal-Planet-26</link>
+	<thumbnail>https://i.imgur.com/N6I8yUm.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 1 HD</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC News Arabia</title>
 	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 1 London</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 1 N Ireland</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 1 Scotland</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 2 HD</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 2 England</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 2 N Ireland</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 2 Scotland</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_scotland.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 2 Wales</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC 4 HD</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four_hd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC News</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC Alba</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BBC Parliment</title>
 	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>BET</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Black-Entertainment-Television-(BET)-29</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Black-Entertainment-Television-(BET)-29</link>
+	<thumbnail>https://i.imgur.com/z8zv6IJ.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/z8zv6IJ.jpg</title>
-	<link>Big Pond Movies</link>
+	<title>Big Pond Movies</title>
+	<link>mms://ken-cdn220-is-1.se.bptvlive.ngcdn.telstra.com/bp_online_movieextra_high</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>mms://ken-cdn220-is-1.se.bptvlive.ngcdn.telstra.com/bp_online_movieextra_high</title>
-	<link>Blaze TV</link>
+	<title>Blaze TV</title>
+	<link>http://live.blaze.simplestreamcdn.com/live/blaze/bitrate1.isml/bitrate1-audio_track=64000-video=3500000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://live.blaze.simplestreamcdn.com/live/blaze/bitrate1.isml/bitrate1-audio_track\\\\u003d64000-video\\\\u003d3500000.m3u8</title>
-	<link>Bloomberg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bloomberg-9</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
+	<title>Bloomberg</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Bloomberg-9</link>
+	<thumbnail>https://i.imgur.com/BrQgKfH.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Bloomberg US</title>
 	<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.imgur.com/BrQgKfH.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/BrQgKfH.jpg</title>
-	<link>Bloomberg UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
+	<title>Bloomberg UK</title>
+	<link>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</link>
+	<thumbnail>https://i.imgur.com/BrQgKfH.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Bravo</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bravo-30</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Bravo-30</link>
+	<thumbnail>https://i.imgur.com/dLjjgkb.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/dLjjgkb.png</title>
-	<link>Canal Eurosport TV</link>
+	<title>Canal Eurosport TV</title>
+	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</title>
-	<link>CBBC</link>
+	<title>CBBC</title>
+	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc_hd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc_hd.m3u8</title>
-	<link>CBeebies</link>
+	<title>CBeebies</title>
+	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies_hd.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies_hd.m3u8</title>
-	<link>CBN West</link>
+	<title>CBN West</title>
+	<link>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8</title>
-	<link>CBS</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-85</title>
-	<link>https://i.imgur.com/E7vniSC.jpg</link>
-	<thumbnail></thumbnail>
+	<title>CBS</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/CBS-85</link>
+	<thumbnail>https://i.imgur.com/E7vniSC.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>CBSN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-News-(CBSN)-1</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/CBS-News-(CBSN)-1</link>
+	<thumbnail>https://i.imgur.com/Dz5NDHR.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/Dz5NDHR.png</title>
-	<link>CBSN II</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key\\\\u003d563b80c1ae4ce359830f572d2496a947\\\\u0026iu\\\\u003d/8264/vaw-can/mobile_web/cbsnews_mobile</title>
-	<link>https://i.imgur.com/Dz5NDHR.png</link>
-	<thumbnail></thumbnail>
+	<title>CBSN II</title>
+	<link>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile</link>
+	<thumbnail>https://i.imgur.com/Dz5NDHR.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>CGTN America</title>
 	<link>http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>CITV</title>
 	<link>http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>City of Boston News Channel</title>
 	<link>rtmp://streaming.cityofboston.gov/live/cable</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>CMT</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CMT-112</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/CMT-112</link>
+	<thumbnail>https://i.imgur.com/rXV7bnj.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/rXV7bnj.png</title>
-	<link>CNBC US</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CNBC-94</title>
-	<link>https://i.imgur.com/NyducTb.jpg</link>
-	<thumbnail></thumbnail>
+	<title>CNBC US</title>
+	<link>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/CNBC-94</link>
+	<thumbnail>https://i.imgur.com/NyducTb.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>CNBC UK</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/CNBC-12</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/CNBC-12</link>
+	<thumbnail>https://i.imgur.com/NyducTb.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/NyducTb.jpg</title>
-	<link>Comedy Central</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Comedy-Central-34</title>
-	<link>https://i.imgur.com/ppPgpsR.png</link>
-	<thumbnail></thumbnail>
+	<title>Comedy Central</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Comedy-Central-34</link>
+	<thumbnail>https://i.imgur.com/ppPgpsR.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Create and Craft</title>
 	<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>C-SPAN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-76</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-76</link>
+	<thumbnail>https://i.imgur.com/quEsdYy.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>C-SPAN 2</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-2-109</title>
-	<link>https://i.imgur.com/quEsdYy.jpg</link>
-	<thumbnail></thumbnail>
+	<title>C-SPAN 2</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-2-109</link>
+	<thumbnail>https://i.imgur.com/quEsdYy.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>C-SPAN 3</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-3-110</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-3-110</link>
+	<thumbnail>https://i.imgur.com/quEsdYy.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>CTV Fishing</link>
+	<title>CTV Fishing</title>
+	<link>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</title>
-	<link>CW</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/The-CW-Television-Network-35</title>
-	<link>https://i.imgur.com/UEjVaGq.jpg</link>
-	<thumbnail></thumbnail>
+	<title>CW</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/The-CW-Television-Network-35</link>
+	<thumbnail>https://i.imgur.com/UEjVaGq.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Discovery US</title>
-	<link>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Discovery-Channel-37</link>
-	<thumbnail></thumbnail>
+	<link>
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Discovery-Channel-37</link>
+	<thumbnail>https://i.imgur.com/FfncZyr.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/FfncZyr.jpg</title>
-	<link>Discovery UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Discovery-Channel-42</title>
-	<link>https://i.imgur.com/FfncZyr.jpg</link>
-	<thumbnail></thumbnail>
+	<title>Discovery UK</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Discovery-Channel-42</link>
+	<thumbnail>https://i.imgur.com/FfncZyr.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>District of Columbia Network</title>
 	<link>http://video.oct.dc.gov/out/u/DCN.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Dubai Racing</title>
 	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Dubai Sports</title>
 	<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>ESPN </title>
 	<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>ESPN Alternate</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-40</link>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-40</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>ESPN 2</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-2-41</link>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-2-41</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>ESPN News</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87</link>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Euro News</title>
 	<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Euro Sport 1 EN 720</title>
 	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Euro Sport 1 EN 1080</title>
 	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Euro Sport France 720</title>
 	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Euro Sport France 1080</title>
 	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Food Network</title>
 	<link>http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
-	<thumbnail></thumbnail>
+	<thumbnail>https://i.imgur.com/CSq15B6.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/CSq15B6.png</title>
-	<link>Food Network UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Food-Network-107</title>
-	<link>https://i.imgur.com/CSq15B6.png</link>
-	<thumbnail></thumbnail>
+	<title>Food Network UK</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Food-Network-107</link>
+	<thumbnail>https://i.imgur.com/CSq15B6.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Football Fanatik TV</title>
 	<link>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Fox Sports News</title>
 	<link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>Fox 5 Washington</title>
 	<link>http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
 	<title>FX</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FX-91</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/mkNXBg9.jpg</title>
-	<link>FXX</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FXX-101</title>
-	<link>Global News BC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__\\\\u003d900\\\\u0026hdnea\\\\u003dip\\\\u003d99.18.68.202~st\\\\u003d1434307348~exp\\\\u003d1434307948~acl\\\\u003d/i/*~id\\\\u003d5a91003f-0e87-4f31-b475-5beb4de69407~hmac\\\\u003d8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77</title>
-	<link>Golf Channel</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44</title>
-	<link>HBO</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Home-Box-Office-(HBO)-96</title>
-	<link>HBO Comedy</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Comedy-108</title>
-	<link>HBO Signature</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Signature-107</title>
-	<link>HGTV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HGTV-47</title>
-	<link>History Channel US</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/History-48</title>
-	<link>History Channel UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/History-44</title>
-	<link>HSN</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath\\\\u003dmp4:420p500kB31</title>
-	<link>Ideal World</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</title>
-	<link>Irish TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://cdn.fs-chf01-04-aa1a041f-8251-d66e-5678-d03fd8530fad.arqiva-ott-live.com/live-audio_track\\\\u003d96000-video\\\\u003d1900000.m3u8</title>
-	<link>ITV1</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8</title>
-	<link>ITV2</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8</title>
-	<link>ITV3</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</title>
-	<link>ITV4</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</title>
-	<link>ITVBE</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8</title>
-	<link>Investigation Discovery</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.streamlive.to/view/69111/ID---Investigation-Discovery-(HD)</title>
-	<link>KATV-News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/KATV-News-(ABC-7)-17</title>
-	<link>KOB5 News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8</title>
-	<link>Kwese</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For\\\\u003d197.232.46.33</title>
-	<link>KXAN News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8</title>
-	<link>London Live</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8</title>
-	<link>MLB Network</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/MLB-Network-51</title>
-	<link>Motor Sport</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://motorsport.hopto.org:8080/</title>
-	<link>MSNBC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Thumbnail</title>
-	<link>Fanart</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>3E</title>
-	<link> http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>4 Music</title>
-	<link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>A\\\\u0026E</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/A+E-21</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/clJ9AfI.png</title>
-	<link>ABC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-83</title>
-	<link>https://i.imgur.com/HbC7fAG.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ABC Family</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Freeform-(ABC-Family)-24</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/DUj0lZM.png</title>
-	<link>ABC News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-News-5</title>
-	<link>https://i.imgur.com/5boHXeQ.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ABC News Alternate</title>
-	<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/5boHXeQ.jpg</title>
-	<link>Al Jazara</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</title>
-	<link>All Sports TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</title>
-	<link>AMC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/AMC-25</title>
-	<link>https://i.imgur.com/3e91B1y.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>AMC Alternate</title>
-	<link>https://videoserver1.org/live/711HG2goV3t4uPeEJMc1bQ/1516145139/c0371e35a2b3244f5edda7947172d954.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/3e91B1y.jpg</title>
-	<link>Animal Planet</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Animal-Planet-26</title>
-	<link>https://i.imgur.com/N6I8yUm.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC News Arabia</title>
-	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 London</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 N Ireland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 Scotland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 England</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 N Ireland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 Scotland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_scotland.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 Wales</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 4 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC News</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC Alba</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC Parliment</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BET</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Black-Entertainment-Television-(BET)-29</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/z8zv6IJ.jpg</title>
-	<link>Big Pond Movies</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>mms://ken-cdn220-is-1.se.bptvlive.ngcdn.telstra.com/bp_online_movieextra_high</title>
-	<link>Blaze TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://live.blaze.simplestreamcdn.com/live/blaze/bitrate1.isml/bitrate1-audio_track\\\\u003d64000-video\\\\u003d3500000.m3u8</title>
-	<link>Bloomberg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bloomberg-9</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Bloomberg US</title>
-	<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/BrQgKfH.jpg</title>
-	<link>Bloomberg UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Bravo</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bravo-30</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/dLjjgkb.png</title>
-	<link>Canal Eurosport TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</title>
-	<link>CBBC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc_hd.m3u8</title>
-	<link>CBeebies</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies_hd.m3u8</title>
-	<link>CBN West</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8</title>
-	<link>CBS</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-85</title>
-	<link>https://i.imgur.com/E7vniSC.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CBSN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-News-(CBSN)-1</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/Dz5NDHR.png</title>
-	<link>CBSN II</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key\\\\u003d563b80c1ae4ce359830f572d2496a947\\\\u0026iu\\\\u003d/8264/vaw-can/mobile_web/cbsnews_mobile</title>
-	<link>https://i.imgur.com/Dz5NDHR.png</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CGTN America</title>
-	<link>http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CITV</title>
-	<link>http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>City of Boston News Channel</title>
-	<link>rtmp://streaming.cityofboston.gov/live/cable</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CMT</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CMT-112</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/rXV7bnj.png</title>
-	<link>CNBC US</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CNBC-94</title>
-	<link>https://i.imgur.com/NyducTb.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CNBC UK</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/CNBC-12</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/NyducTb.jpg</title>
-	<link>Comedy Central</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Comedy-Central-34</title>
-	<link>https://i.imgur.com/ppPgpsR.png</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Create and Craft</title>
-	<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>C-SPAN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-76</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>C-SPAN 2</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-2-109</title>
-	<link>https://i.imgur.com/quEsdYy.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>C-SPAN 3</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-3-110</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>CTV Fishing</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</title>
-	<link>CW</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/The-CW-Television-Network-35</title>
-	<link>https://i.imgur.com/UEjVaGq.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Discovery US</title>
-	<link>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Discovery-Channel-37</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/FfncZyr.jpg</title>
-	<link>Discovery UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Discovery-Channel-42</title>
-	<link>https://i.imgur.com/FfncZyr.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>District of Columbia Network</title>
-	<link>http://video.oct.dc.gov/out/u/DCN.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Dubai Racing</title>
-	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Dubai Sports</title>
-	<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN </title>
-	<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN Alternate</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-40</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN 2</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-2-41</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN News</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Euro News</title>
-	<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Euro Sport 1 EN 720</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Euro Sport 1 EN 1080</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Euro Sport France 720</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Euro Sport France 1080</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Food Network</title>
-	<link>http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/CSq15B6.png</title>
-	<link>Food Network UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Food-Network-107</title>
-	<link>https://i.imgur.com/CSq15B6.png</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Football Fanatik TV</title>
-	<link>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Fox Sports News</title>
-	<link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Fox 5 Washington</title>
-	<link>http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>FX</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FX-91</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/mkNXBg9.jpg</title>
-	<link>FXX</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FXX-101</title>
-	<link>Global News BC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__\\\\u003d900\\\\u0026hdnea\\\\u003dip\\\\u003d99.18.68.202~st\\\\u003d1434307348~exp\\\\u003d1434307948~acl\\\\u003d/i/*~id\\\\u003d5a91003f-0e87-4f31-b475-5beb4de69407~hmac\\\\u003d8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77</title>
-	<link>Golf Channel</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44</title>
-	<link>HBO</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Home-Box-Office-(HBO)-96</title>
-	<link>HBO Comedy</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Comedy-108</title>
-	<link>HBO Signature</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Signature-107</title>
-	<link>HGTV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HGTV-47</title>
-	<link>History Channel US</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/History-48</title>
-	<link>History Channel UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/History-44</title>
-	<link>HSN</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath\\\\u003dmp4:420p500kB31</title>
-	<link>Ideal World</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</title>
-	<link>Irish TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://cdn.fs-chf01-04-aa1a041f-8251-d66e-5678-d03fd8530fad.arqiva-ott-live.com/live-audio_track\\\\u003d96000-video\\\\u003d1900000.m3u8</title>
-	<link>ITV1</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8</title>
-	<link>ITV2</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8</title>
-	<link>ITV3</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</title>
-	<link>ITV4</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</title>
-	<link>ITVBE</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8</title>
-	<link>Investigation Discovery</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.streamlive.to/view/69111/ID---Investigation-Discovery-(HD)</title>
-	<link>KATV-News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/KATV-News-(ABC-7)-17</title>
-	<link>KOB5 News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8</title>
-	<link>Kwese</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For\\\\u003d197.232.46.33</title>
-	<link>KXAN News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8</title>
-	<link>London Live</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8</title>
-	<link>MLB Network</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/MLB-Network-51</title>
-	<link>Motor Sport</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://motorsport.hopto.org:8080/</title>
-	<link>MSNBC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Thumbnail</title>
-	<link>Fanart</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>3E</title>
-	<link> http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>4 Music</title>
-	<link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>A\\\\u0026E</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/A+E-21</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/clJ9AfI.png</title>
-	<link>ABC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-83</title>
-	<link>https://i.imgur.com/HbC7fAG.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ABC Family</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Freeform-(ABC-Family)-24</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/DUj0lZM.png</title>
-	<link>ABC News</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-News-5</title>
-	<link>https://i.imgur.com/5boHXeQ.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ABC News Alternate</title>
-	<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/5boHXeQ.jpg</title>
-	<link>Al Jazara</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</title>
-	<link>All Sports TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</title>
-	<link>AMC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/AMC-25</title>
-	<link>https://i.imgur.com/3e91B1y.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>AMC Alternate</title>
-	<link>https://videoserver1.org/live/711HG2goV3t4uPeEJMc1bQ/1516145139/c0371e35a2b3244f5edda7947172d954.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/3e91B1y.jpg</title>
-	<link>Animal Planet</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Animal-Planet-26</title>
-	<link>https://i.imgur.com/N6I8yUm.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC News Arabia</title>
-	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 London</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 N Ireland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 1 Scotland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 England</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 N Ireland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 Scotland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_scotland.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 2 Wales</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC 4 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four_hd.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC News</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC Alba</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BBC Parliment</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>BET</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Black-Entertainment-Television-(BET)-29</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/z8zv6IJ.jpg</title>
-	<link>Big Pond Movies</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>mms://ken-cdn220-is-1.se.bptvlive.ngcdn.telstra.com/bp_online_movieextra_high</title>
-	<link>Blaze TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://live.blaze.simplestreamcdn.com/live/blaze/bitrate1.isml/bitrate1-audio_track\\\\u003d64000-video\\\\u003d3500000.m3u8</title>
-	<link>Bloomberg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bloomberg-9</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Bloomberg US</title>
-	<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/BrQgKfH.jpg</title>
-	<link>Bloomberg UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Bravo</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bravo-30</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/dLjjgkb.png</title>
-	<link>Canal Eurosport TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</title>
-	<link>CBBC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc_hd.m3u8</title>
-	<link>CBeebies</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies_hd.m3u8</title>
-	<link>CBN West</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8</title>
-	<link>CBS</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-85</title>
-	<link>https://i.imgur.com/E7vniSC.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CBSN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-News-(CBSN)-1</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/Dz5NDHR.png</title>
-	<link>CBSN II</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key\\\\u003d563b80c1ae4ce359830f572d2496a947\\\\u0026iu\\\\u003d/8264/vaw-can/mobile_web/cbsnews_mobile</title>
-	<link>https://i.imgur.com/Dz5NDHR.png</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CGTN America</title>
-	<link>http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CITV</title>
-	<link>http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>City of Boston News Channel</title>
-	<link>rtmp://streaming.cityofboston.gov/live/cable</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CMT</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CMT-112</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/rXV7bnj.png</title>
-	<link>CNBC US</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CNBC-94</title>
-	<link>https://i.imgur.com/NyducTb.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CNBC UK</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/CNBC-12</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/NyducTb.jpg</title>
-	<link>Comedy Central</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Comedy-Central-34</title>
-	<link>https://i.imgur.com/ppPgpsR.png</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Create and Craft</title>
-	<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>C-SPAN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-76</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>C-SPAN 2</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-2-109</title>
-	<link>https://i.imgur.com/quEsdYy.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>C-SPAN 3</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-3-110</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>CTV Fishing</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</title>
-	<link>CW</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/The-CW-Television-Network-35</title>
-	<link>https://i.imgur.com/UEjVaGq.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Discovery US</title>
-	<link>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Discovery-Channel-37</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/FfncZyr.jpg</title>
-	<link>Discovery UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Discovery-Channel-42</title>
-	<link>https://i.imgur.com/FfncZyr.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>District of Columbia Network</title>
-	<link>http://video.oct.dc.gov/out/u/DCN.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Dubai Racing</title>
-	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Dubai Sports</title>
-	<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN </title>
-	<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN Alternate</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-40</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN 2</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-2-41</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN News</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87</link>
-	<thumbnail></thumbnail>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/FX-91</link>
+	<thumbnail>https://i.imgur.com/mkNXBg9.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro News</title>
-	<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
+	<title>FXX</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/FXX-101</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport 1 EN 720</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+	<title>Global News BC</title>
+	<link>https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport 1 EN 1080</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
+	<title>Golf Channel</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport France 720</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8</link>
+	<title>HBO</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Home-Box-Office-(HBO)-96</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport France 1080</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+	<title>HBO Comedy</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/HBO-Comedy-108</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Food Network</title>
-	<link>http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+	<title>HBO Signature</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/HBO-Signature-107</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/CSq15B6.png</title>
-	<link>Food Network UK</link>
+	<title>HGTV</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/HGTV-47</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Food-Network-107</title>
-	<link>https://i.imgur.com/CSq15B6.png</link>
+	<title>History Channel US</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/History-48</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Football Fanatik TV</title>
-	<link>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</link>
+	<title>History Channel UK</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/History-44</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Fox Sports News</title>
-	<link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8</link>
+	<title>HSN</title>
+	<link>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath=mp4:420p500kB31</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Fox 5 Washington</title>
-	<link>http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8</link>
+	<title>Ideal World</title>
+	<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>FX</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FX-91</link>
+	<title>Irish TV</title>
+	<link>http://cdn.fs-chf01-04-aa1a041f-8251-d66e-5678-d03fd8530fad.arqiva-ott-live.com/live-audio_track=96000-video=1900000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/mkNXBg9.jpg</title>
-	<link>FXX</link>
+	<title>ITV1</title>
+	<link>http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FXX-101</title>
-	<link>Global News BC</link>
+	<title>ITV2</title>
+	<link>http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__\\\\u003d900\\\\u0026hdnea\\\\u003dip\\\\u003d99.18.68.202~st\\\\u003d1434307348~exp\\\\u003d1434307948~acl\\\\u003d/i/*~id\\\\u003d5a91003f-0e87-4f31-b475-5beb4de69407~hmac\\\\u003d8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77</title>
-	<link>Golf Channel</link>
+	<title>ITV3</title>
+	<link>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44</title>
-	<link>HBO</link>
+	<title>ITV4</title>
+	<link>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Home-Box-Office-(HBO)-96</title>
-	<link>HBO Comedy</link>
+	<title>ITVBE</title>
+	<link>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Comedy-108</title>
-	<link>HBO Signature</link>
+	<title>Investigation Discovery</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.streamlive.to/view/69111/ID---Investigation-Discovery-(HD)</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Signature-107</title>
-	<link>HGTV</link>
+	<title>KATV-News</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/KATV-News-(ABC-7)-17</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HGTV-47</title>
-	<link>History Channel US</link>
+	<title>KOB5 News</title>
+	<link>http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/History-48</title>
-	<link>History Channel UK</link>
+	<title>Kwese</title>
+	<link>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For=197.232.46.33</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/History-44</title>
-	<link>HSN</link>
+	<title>KXAN News</title>
+	<link>http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath\\\\u003dmp4:420p500kB31</title>
-	<link>Ideal World</link>
+	<title>London Live</title>
+	<link>http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</title>
-	<link>Irish TV</link>
+	<title>MLB Network</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/MLB-Network-51</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://cdn.fs-chf01-04-aa1a041f-8251-d66e-5678-d03fd8530fad.arqiva-ott-live.com/live-audio_track\\\\u003d96000-video\\\\u003d1900000.m3u8</title>
-	<link>ITV1</link>
+	<title>Motor Sport</title>
+	<link>http://motorsport.hopto.org:8080/</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8</title>
-	<link>ITV2</link>
+	<title>MSNBC</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/MSNBC-66</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8</title>
-	<link>ITV3</link>
+	<title>MTV US</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/MTV-78</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</title>
-	<link>ITV4</link>
+	<title>MTV UK</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/MTV-85</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</title>
-	<link>ITVBE</link>
+	<title>MTV Classic</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/MTV-Classic-57</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8</title>
-	<link>Investigation Discovery</link>
+	<title>Nasa Television</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NASA-TV-12</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.streamlive.to/view/69111/ID---Investigation-Discovery-(HD)</title>
-	<link>KATV-News</link>
+	<title>Nasa Television Alternate</title>
+	<link>http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/KATV-News-(ABC-7)-17</title>
-	<link>KOB5 News</link>
+	<title>National Geographic US</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/National-Geographic-52</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8</title>
-	<link>Kwese</link>
+	<title>National Geographic UK</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/National-Geographic-Channel-62</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For\\\\u003d197.232.46.33</title>
-	<link>KXAN News</link>
+	<title>NBA TV</title>
+	<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8</title>
-	<link>London Live</link>
+	<title>NBA TV Alternate</title>
+	<link>http://lit-cove-15301.herokuapp.com/?sport=nba&uuid=sur8Yk&hst=qALEpvMo4YzBgBNY50wPn3x8&url=neunlds289.akamaized.net%2Fnlds%2Fnba%2Fbos%2Fas%2Flive%2Fnlncp%2Fbos_hd_ced.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8</title>
-	<link>MLB Network</link>
+	<title>NBA TV Alternate II</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBA-TV-53</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/MLB-Network-51</title>
-	<link>Motor Sport</link>
+	<title>NBC</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBC-54</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://motorsport.hopto.org:8080/</title>
-	<link>MSNBC</link>
+	<title>NBC2 News</title>
+	<link>http://api.new.livestream.com/accounts/7987479/events/2929660/live.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Thumbnail</title>
-	<link>Fanart</link>
+	<title>NBC 5</title>
+	<link>http://ad-playlistserver.aws.syncbak.com/playlist/898796/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjY5MTksImlzcyI6IldMUyIsIm1kNSI6IjUxNjkxOGMwODc3NDYzYzFhMWRmYzMwNGI2MWRkMDM3IiwibWlkIjoiODk4Nzk2In0.Vx7F9dBhtYzKs8GIhWg2CcEIRLjVA5548AT9KqIhM2w</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>3E</title>
-	<link> http://csm-e.cds1.yospace.com/csm/extlive/tv3ie01,3e-prd.m3u8</link>
+	<title>NBC Bay Area</title>
+	<link>http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>4 Music</title>
-	<link>http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8</link>
+	<title>NBCSN</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NBCSN-55</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>A\\\\u0026E</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/A+E-21</link>
+	<title>News4</title>
+	<link>http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/clJ9AfI.png</title>
-	<link>ABC</link>
+	<title>News Channel 12</title>
+	<link>http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-83</title>
-	<link>https://i.imgur.com/HbC7fAG.jpg</link>
+	<title>Newsmax</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Newsmax-TV-3</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>ABC Family</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Freeform-(ABC-Family)-24</link>
+	<title>NFL</title>
+	<link>
+https://pcva2.manifest.auditude.com/auditude/live/30012020-2020-4e46-4c4e-4554574f524b/1626/b57dbc31-5bf5-4e30-a658-3368b38c84f4/aHR0cHM6Ly9uZmxobHNsaXZlMS1pLmFrYW1haWhkLm5ldC9obHMvbGl2ZS81MTcyOTkvbmZsbi8xNTk2ay9uZmxuLm0zdTg.m3u8?pttrackingversion=v1&u=20b08eb6ec1a4ea06d4f1ff0aa83a808&pttrackingmode=sstm&g=1000003&z=264057&k=iu=/4595/nfl.live/web;method=server;cust_params=slot%3Dvideo%26s1%3Dlive%26s2%3Dnfln_3rd%26s3%3D3rd_auth_web%26affiliate%3DNFLN&ptcueformat=turner</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/DUj0lZM.png</title>
-	<link>ABC News</link>
+	<title>NFL Alternate </title>
+	<link>https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ABC-News-5</title>
-	<link>https://i.imgur.com/5boHXeQ.jpg</link>
+	<title>NFL Alternate II</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/NFL-Network-56</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>ABC News Alternate</title>
-	<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+	<title>NFL Now</title>
+	<link>https://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW_1200k.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/5boHXeQ.jpg</title>
-	<link>Al Jazara</link>
+	<title>Nickelodeon</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Nickelodeon-87</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</title>
-	<link>All Sports TV</link>
+	<title>Nicktoons</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Nicktoons-88</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</title>
-	<link>AMC</link>
+	<title>Oireachtas TV</title>
+	<link>https://media.heanet.ie/transcode05/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8?</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/AMC-25</title>
-	<link>https://i.imgur.com/3e91B1y.jpg</link>
+	<title>Olympic Channel</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>AMC Alternate</title>
-	<link>https://videoserver1.org/live/711HG2goV3t4uPeEJMc1bQ/1516145139/c0371e35a2b3244f5edda7947172d954.m3u8</link>
+	<title>Olympic Channel 2</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_0_256000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/3e91B1y.jpg</title>
-	<link>Animal Planet</link>
+	<title>Olympic Channel 3</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_1_464000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Animal-Planet-26</title>
-	<link>https://i.imgur.com/N6I8yUm.jpg</link>
+	<title>Olympic Channel 4</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_2_664000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 1 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8</link>
+	<title>Olympic Channel 5</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_3_964000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC News Arabia</title>
-	<link>http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8</link>
+	<title>Olympic Channel 6</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_4_1464000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 1 London</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8</link>
+	<title>Olympic Channel 7</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_5_2264000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 1 N Ireland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8</link>
+	<title>Olympic Channel 8</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 1 Scotland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8</link>
+	<title>Olympic Channel 9</title>
+	<link>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 2 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8</link>
+	<title>PAC 12 Network</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Pac-12-Network-97</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 2 England</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8</link>
+	<title>PAC 12 Arizona</title>
+	<link>http://xrxs.net/video/live-p12ariz-4728.m3u8?</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 2 N Ireland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8</link>
+	<title>PAC 12 Bay Area</title>
+	<link>http://xrxs.net/video/live-p12baya-1164.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 2 Scotland</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_scotland.m3u8</link>
+	<title>PAC 12 L.A.</title>
+	<link>http://xrxs.net/video/live-p12losa-1164.m3u8?</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 2 Wales</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8</link>
+	<title>PAC 12 Mountain</title>
+	<link>http://xrxs.net/video/live-p12moun-1164.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC 4 HD</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four_hd.m3u8</link>
+	<title>PAC 12 National</title>
+	<link>http://xrxs.net/video/live-p12netw-1164.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC News</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8</link>
+	<title>PAC 12 Oregon</title>
+	<link>http://xrxs.net/video/live-p12oreg-1164.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC Alba</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8</link>
+	<title>PAC 12 Washington</title>
+	<link>http://xrxs.net/video/live-p12wash-4728.m3u8?</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BBC Parliment</title>
-	<link>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8</link>
+	<title>PBS</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/PBS-81</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>BET</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Black-Entertainment-Television-(BET)-29</link>
+	<title>PBS Kids</title>
+	<link>https://live-cdn.pbskids.org/out/u/est.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/z8zv6IJ.jpg</title>
-	<link>Big Pond Movies</link>
+	<title>Poker Central</title>
+	<link>http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>mms://ken-cdn220-is-1.se.bptvlive.ngcdn.telstra.com/bp_online_movieextra_high</title>
-	<link>Blaze TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://live.blaze.simplestreamcdn.com/live/blaze/bitrate1.isml/bitrate1-audio_track\\\\u003d64000-video\\\\u003d3500000.m3u8</title>
-	<link>Bloomberg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bloomberg-9</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Bloomberg US</title>
-	<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/BrQgKfH.jpg</title>
-	<link>Bloomberg UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8</title>
-	<link>https://i.imgur.com/BrQgKfH.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Bravo</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Bravo-30</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/dLjjgkb.png</title>
-	<link>Canal Eurosport TV</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</title>
-	<link>CBBC</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc_hd.m3u8</title>
-	<link>CBeebies</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies_hd.m3u8</title>
-	<link>CBN West</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://raw.githubusercontent.com/notanewbie/LegalStream/master/packages/news/world.m3u8</title>
-	<link>CBS</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-85</title>
-	<link>https://i.imgur.com/E7vniSC.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CBSN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CBS-News-(CBSN)-1</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/Dz5NDHR.png</title>
-	<link>CBSN II</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key\\\\u003d563b80c1ae4ce359830f572d2496a947\\\\u0026iu\\\\u003d/8264/vaw-can/mobile_web/cbsnews_mobile</title>
-	<link>https://i.imgur.com/Dz5NDHR.png</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CGTN America</title>
-	<link>http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CITV</title>
-	<link>http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>City of Boston News Channel</title>
-	<link>rtmp://streaming.cityofboston.gov/live/cable</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>CMT</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CMT-112</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/rXV7bnj.png</title>
-	<link>CNBC US</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/CNBC-94</title>
-	<link>https://i.imgur.com/NyducTb.jpg</link>
-	<thumbnail></thumbnail>
+	<title>QVC</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/QVC-82</link>
+	<thumbnail>https://i.imgur.com/4CvfM8q.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>CNBC UK</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/CNBC-12</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/NyducTb.jpg</title>
-	<link>Comedy Central</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Comedy-Central-34</title>
-	<link>https://i.imgur.com/ppPgpsR.png</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Create and Craft</title>
-	<link>http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>C-SPAN</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-76</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>C-SPAN 2</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-2-109</title>
-	<link>https://i.imgur.com/quEsdYy.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>C-SPAN 3</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/C-SPAN-3-110</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/quEsdYy.jpg</title>
-	<link>CTV Fishing</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>http://manifester.mediafoundry.com.au/stream/c31melbourne_fishing/playlist.m3u8</title>
-	<link>CW</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/The-CW-Television-Network-35</title>
-	<link>https://i.imgur.com/UEjVaGq.jpg</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Discovery US</title>
-	<link>\\\\nplugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Discovery-Channel-37</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>https://i.imgur.com/FfncZyr.jpg</title>
-	<link>Discovery UK</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Discovery-Channel-42</title>
-	<link>https://i.imgur.com/FfncZyr.jpg</link>
-	<thumbnail></thumbnail>
+	<title>QVC UK</title>
+	<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8</link>
+	<thumbnail>https://i.imgur.com/4CvfM8q.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>District of Columbia Network</title>
-	<link>http://video.oct.dc.gov/out/u/DCN.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>Dubai Racing</title>
-	<link>http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8</link>
-	<thumbnail></thumbnail>
+	<title>QVC II</title>
+	<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8</link>
+	<thumbnail>https://i.imgur.com/4CvfM8q.png
+</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Dubai Sports</title>
-	<link>http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8</link>
-	<thumbnail></thumbnail>
-</item>
-<item>
-	<title>ESPN </title>
-	<link>http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8</link>
-	<thumbnail></thumbnail>
+	<title>QVC Beauty</title>
+	<link>http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8</link>
+	<thumbnail>https://i.imgur.com/4CvfM8q.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>ESPN Alternate</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-40</link>
+	<title>Racing.com</title>
+	<link>https://melbourneseven-i.akamaihd.net/hls/live/263815/RAC/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>ESPN 2</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-2-41</link>
-	<thumbnail></thumbnail>
+	<title>RT America</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/RT-America-59</link>
+	<thumbnail>https://i.imgur.com/5mRoEtj.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>ESPN News</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/ESPN-News-87</link>
+	<title>RT UK Russia Today</title>
+	<link>http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro News</title>
-	<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</link>
+	<title>RT US Russia Today Alternate</title>
+	<link>http://rt.api.visionip.tv/live/ASHTTP/RT_America-HD/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport 1 EN 720</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8</link>
+	<title>RTE News</title>
+	<link>http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport 1 EN 1080</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8</link>
-	<thumbnail></thumbnail>
+	<title>Showtime</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Showtime-60</link>
+	<thumbnail>https://i.imgur.com/GnI6LLa.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport France 720</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8</link>
-	<thumbnail></thumbnail>
+	<title>Showtime 2</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Showtime-2-102</link>
+	<thumbnail>https://i.imgur.com/kFBR1LX.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Euro Sport France 1080</title>
-	<link>http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8</link>
+	<title>Sky Racing 1</title>
+	<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Food Network</title>
-	<link>http://sbslivefvstreaming.sbs.com.au/out/u/fdnet-mo-000-c3094-delpkg1-delpkg1-abr/index-root-ipad.m3u8</link>
+	<title>Sky Racing 2</title>
+	<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/CSq15B6.png</title>
-	<link>Food Network UK</link>
+	<title>Sky TG24</title>
+	<link>http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/Food-Network-107</title>
-	<link>https://i.imgur.com/CSq15B6.png</link>
-	<thumbnail></thumbnail>
+	<title>Spike TV US</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Spike-61</link>
+	<thumbnail>https://i.imgur.com/uBRHMWD.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Football Fanatik TV</title>
-	<link>rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720</link>
-	<thumbnail></thumbnail>
+	<title>Spike TV UK</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-Kingdom/Spike-93</link>
+	<thumbnail>https://i.imgur.com/uBRHMWD.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Fox Sports News</title>
-	<link>http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/index_4628_av-p.m3u8</link>
+	<title>Sports Night</title>
+	<link>rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>Fox 5 Washington</title>
-	<link>http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8</link>
-	<thumbnail></thumbnail>
+	<title>StarZ</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Starz-Encore-106</link>
+	<thumbnail>https://i.imgur.com/QMjzmt4.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>FX</title>
-	<link>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FX-91</link>
-	<thumbnail></thumbnail>
+	<title>StarZ Edge</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Starz-Edge-105</link>
+	<thumbnail>https://i.imgur.com/QMjzmt4.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://i.imgur.com/mkNXBg9.jpg</title>
-	<link>FXX</link>
-	<thumbnail></thumbnail>
+	<title>Sundance</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/SundanceTV-104</link>
+	<thumbnail>https://i.imgur.com/mF6WoM4.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/FXX-101</title>
-	<link>Global News BC</link>
+	<title>Super Sport 1</title>
+	<link>http://81.7.13.162/hls/ss1/index.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__\\\\u003d900\\\\u0026hdnea\\\\u003dip\\\\u003d99.18.68.202~st\\\\u003d1434307348~exp\\\\u003d1434307948~acl\\\\u003d/i/*~id\\\\u003d5a91003f-0e87-4f31-b475-5beb4de69407~hmac\\\\u003d8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77</title>
-	<link>Golf Channel</link>
+	<title>Super Sport 2</title>
+	<link>http://81.7.13.162/hls/ss2/index.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Golf-Channel-44</title>
-	<link>HBO</link>
+	<title>Super Sport 3</title>
+	<link>http://81.7.13.162/hls/ss3/index.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/Home-Box-Office-(HBO)-96</title>
-	<link>HBO Comedy</link>
+	<title>Super Sport 4</title>
+	<link>http://81.7.13.162/hls/ss4/index.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Comedy-108</title>
-	<link>HBO Signature</link>
-	<thumbnail></thumbnail>
+	<title>Syfy</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/Syfy-63</link>
+	<thumbnail>https://i.imgur.com/mW5LVXV.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HBO-Signature-107</title>
-	<link>HGTV</link>
+	<title>TBN</title>
+	<link>http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/HGTV-47</title>
-	<link>History Channel US</link>
+	<title>TG4</title>
+	<link>http://csm-e.cds1.yospace.com/csm/live/74246540.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/History-48</title>
-	<link>History Channel UK</link>
+	<title>The Florida Channel</title>
+	<link>rtmp://webcasting.thefloridachannel.org/live/tvweb1</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-Kingdom/History-44</title>
-	<link>HSN</link>
+	<title>The Shopping Channel</title>
+	<link>http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31 playpath\\\\u003dmp4:420p500kB31</title>
-	<link>Ideal World</link>
-	<thumbnail></thumbnail>
+	<title>The Weather Channel</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/The-Weather-Channel-111</link>
+	<thumbnail>https://i.imgur.com/6wwvWTc.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8</title>
-	<link>Irish TV</link>
+	<title>Thoroughbred Central</title>
+	<link>http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://cdn.fs-chf01-04-aa1a041f-8251-d66e-5678-d03fd8530fad.arqiva-ott-live.com/live-audio_track\\\\u003d96000-video\\\\u003d1900000.m3u8</title>
-	<link>ITV1</link>
-	<thumbnail></thumbnail>
+	<title>TLC</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/TLC-65</link>
+	<thumbnail>https://i.imgur.com/B1ZA8Ne.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8</title>
-	<link>ITV2</link>
-	<thumbnail></thumbnail>
+	<title>TruTV</title>
+	<link>http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8</link>
+	<thumbnail>https://i.imgur.com/pDlakPw.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1800.m3u8</title>
-	<link>ITV3</link>
-	<thumbnail></thumbnail>
+	<title>TV Land</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/TV-Land-69</link>
+	<thumbnail>https://i.imgur.com/RjloL8N.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8</title>
-	<link>ITV4</link>
+	<title>TWIT News</title>
+	<link>http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8</title>
-	<link>ITVBE</link>
+	<title>University of California Channel</title>
+	<link>rtmp://ucsdtv-wowza.ucsd.edu:1935/live/live_800</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1800.m3u8</title>
-	<link>Investigation Discovery</link>
-	<thumbnail></thumbnail>
+	<title>USA Network</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/USA-Network-92</link>
+	<thumbnail>https://i.imgur.com/K2UsqIK.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.streamlive.to/view/69111/ID---Investigation-Discovery-(HD)</title>
-	<link>KATV-News</link>
+	<title>Versus HD</title>
+	<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/KATV-News-(ABC-7)-17</title>
-	<link>KOB5 News</link>
-	<thumbnail></thumbnail>
+	<title>VH1</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/VH1-113</link>
+	<thumbnail>https://i.imgur.com/y2Ta1j6.png</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://api.new.livestream.com/accounts/10066184/events/3399986/live.m3u8</title>
-	<link>Kwese</link>
-	<thumbnail></thumbnail>
+	<title>Weather Nation</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/WeatherNation-TV-10</link>
+	<thumbnail>https://i.imgur.com/KtrOQRs.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://kwesefta-i.akamaihd.net/hls/live/255186/FTA1/FTA1.m3u8|X-Forwarded-For\\\\u003d197.232.46.33</title>
-	<link>KXAN News</link>
+	<title>WGN Chicago</title>
+	<link>http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8</title>
-	<link>London Live</link>
-	<thumbnail></thumbnail>
+	<title>WGN TV</title>
+	<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.firstonetv.net/Live/United-States-(USA)/WGN-TV-71</link>
+	<thumbnail>https://i.imgur.com/aBskR5m.jpg</thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8</title>
-	<link>MLB Network</link>
+	<title>WLBZ 2</title>
+	<link>http://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/master.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>plugin://plugin.video.SportsDevil/?mode\\\\u003d1\\\\u0026amp;item\\\\u003dcatcher%3dstreams%26url\\\\u003dhttps://www.firstonetv.net/Live/United-States-(USA)/MLB-Network-51</title>
-	<link>Motor Sport</link>
+	<title>WTV</title>
+	<link>http://manifester-wtvperth.mediafoundry.com.au/stream/wtvperth/playlist.m3u8</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
 <item>
-	<title>http://motorsport.hopto.org:8080/</title>
-	<link>MSNBC</link>
+	<title>WWE Network</title>
+	<link>http://hlslive-akc.med2.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8?|Cookie= mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa375346093d3aa0681d463623fa76ece30045e441724e2173aa6590fd94126d431dac35dcb5032f66c2c26e958d0b4b25cc38599b4a3bfa489fc9137233882839845609ed401c786260a73fd3b30dc2d51b273de6aab6f38351db0a059ecede9b223c1081deb64fc5c3b5b06ec12b96eb094d5a400ed7e3d8b0850a4a78df4025e453941d13f5da63e02272497833422fff784873c5a00daa13021ff3e32b837d5b5d1da90d1c19cf73828de2067b717de7b0d844bafe15b8c90ad5d4928d8a2d7887dc1728e1e33edfa483f102ddc0546b8f04e5a462f91f5ecccb5f0bc30d9f4d18e47ee6041aa144ef2bca83a7115a7c5b9b62c862aa30f4054300a5a6ac3d403ed88a9486925403e91cacf1087c1eae9ada4c55d1fc61890626cfe7f7a5f2d3794fa082869505f00f782461284dcc096100aa26ccdae6ff884d5639faffbfab5975714d210ac2e6b46a5e29b30de4a93c656541deb059609e2b7074827a3328f5f9d97398101727c34c425cc96ccd1084a64b1d6d33b2886bb27523a27d83a7492c8662b41dadf202d5a10be3c4d6b9658d09250482f47bd0382d89789653b8973f54e0bb0cb1205d1d0c68c90fb1ec320b14d9d49442b5970029e1a5e78eacd482e5c9559bac49336c8a51fddd6b9721cf106209a7bea</</link>
 	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
