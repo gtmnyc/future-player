@@ -1,38 +1,8 @@
-
-<item>
-<title>[COLORred][B]13:30 - 15:30 [/COLOR][/B][COLORwhite][B]EPL - AFC Bournemouth vs Arsenal [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://URL-_VIDEO_0_5564000.m3u8(HD 1080)</sublink>
-<sublink>https://wowzaprod159-i.akamaihd.net/hls/live/593643/32e87ece_1_4128/chunklist.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/TSN-4-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/TSN-5-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/NBCSN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://163.172.61.99/SkySportP1/tracks-v1a1/index.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/AFC_Bournemouth_vs_Arsenal_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-<item>
-<title>[COLORred][B]16:00 - 18:00 [/COLOR][/B][COLORwhite][B]EPL - Liverpool vs Manchester City [/COLOR][/B]</title>
-<info>[COLORyellow][B]Football[/COLOR][/B]</info>
-<link>
-<sublink>http://sprtlive7.akamaized.net/hls/live/586269/nbc-sports0114063902/exp=1516031373~acl=%2fhls%2flive%2f586269*~data=hdntl~hmac=9eb445b4813d1298dc12b4a9c856a9039504137c17ecf2b7338e6e905f916e57/OTT07_VIDEO_0_5564000.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/NBCSN/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League-HD/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>https://wowzaprod159-i.akamaihd.net/hls/live/593643/32e87ece_1_4128/chunklist.m3u8</sublink>
-<sublink>http://163.172.61.99/SkySportP1/tracks-v1a1/index.m3u8</sublink>
-<sublink>http://djsssnmepk91t.cloudfront.net/futbotv/d2mp0a1lc8sa9b_nbc_7.m3u8</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Main-Event/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>http://ukdvb1.uk.to:8085/Sky-Sports-Premier-League/mpegts?token=hcWUvw2Ur3</sublink>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://wizhdsports.fi/watch/Liverpool_vs_Manchester_City_live_Football/skysportsmainevent</sublink></link>
-<referer></referer>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
+<dir>
+        <name></name>
+        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
+</dir>
