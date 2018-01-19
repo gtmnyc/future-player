@@ -1,8 +1,19 @@
+
+https://dcs-live2.apis.anvato.net/server/play/X09ZXWbI4ZDmLT5A/rendition.m3u8?track=video-6&anvsid=i177082304-n6acb85be-f399-4497-8a6a-32db12ff2952
+<item>
+	<title>NBC NY</title>
+	<link>https://dcs-live2.apis.anvato.net/server/play/X09ZXWbI4ZDmLT5A/rendition.m3u8?track=video-6&anvsid=i177082304-n6acb85be-f399-4497-8a6a-32db12ff2952</link>
+	<thumbnail>http://logosforapp.ddns.net/logo/24-kitchen.jpg</thumbnail>
+</item>
+
+
+
 <item>
 	<title>A BOLA TV</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/463.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
 	<thumbnail>http://logosforapp.ddns.net/logo/24-kitchen.jpg</thumbnail>
 </item>
+
 <item>
 	<title>A&E</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/465.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
@@ -721,8 +732,10 @@
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/cartoon_network.jpg",DISCOVERY HD</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/528.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>http://logosforapp.ddns.net/logo/boomerang_th.png"	CARTOON NETWORK
-http://streamxcode.ddns.net:25461/live/data/ask/527.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>http://logosforapp.ddns.net/logo/boomerang_th.png"	CARTOON NETWORK
+
+http://streamxcode.ddns.net:25461/live/data/ask/527.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Germany</thumbnail>
 </item>
 <item>
@@ -1653,36 +1666,46 @@ http://streamxcode.ddns.net:25461/live/data/ask/527.ts|refferer=http://solidstre
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/canalppv2.png	CANAL PPV3</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/797.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>http://logosforapp.ddns.net/logo/canalppv1.png	CANAL PPV 2
-http://streamxcode.ddns.net:25461/live/data/ask/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>http://logosforapp.ddns.net/logo/canalppv1.png	CANAL PPV 2
+
+http://streamxcode.ddns.net:25461/live/data/ask/796.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="France</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/canalppv4.png	CANAL PPV5</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/800.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>http://logosforapp.ddns.net/logo/canalppv3.png	CANAL PPV4
-http://streamxcode.ddns.net:25461/live/data/ask/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>http://logosforapp.ddns.net/logo/canalppv3.png	CANAL PPV4
+
+http://streamxcode.ddns.net:25461/live/data/ask/799.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="France</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/canalppv6.png	CANAL PPV7</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/802.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>http://logosforapp.ddns.net/logo/canalppv5.png	CANAL PPV6
-http://streamxcode.ddns.net:25461/live/data/ask/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>http://logosforapp.ddns.net/logo/canalppv5.png	CANAL PPV6
+
+http://streamxcode.ddns.net:25461/live/data/ask/801.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="France</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/canalppv8.png	CANAL PPV9</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/804.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>http://logosforapp.ddns.net/logo/canalppv7.png	CANAL PPV8
-http://streamxcode.ddns.net:25461/live/data/ask/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>http://logosforapp.ddns.net/logo/canalppv7.png	CANAL PPV8
+
+http://streamxcode.ddns.net:25461/live/data/ask/803.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="France</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/canalppv10.png	CANAL SERIES</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/798.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>http://logosforapp.ddns.net/logo/canalppv9.png	CANAL PPV10
-http://streamxcode.ddns.net:25461/live/data/ask/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>http://logosforapp.ddns.net/logo/canalppv9.png	CANAL PPV10
+
+http://streamxcode.ddns.net:25461/live/data/ask/805.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="France</thumbnail>
 </item>
 <item>
@@ -1913,8 +1936,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/805.ts|refferer=http://solidstre
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/star.sports.hd1.jpg",STAR SPORTS 1 HINDI HD *</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5066.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>"	STAR SPORTS 1 HD *
-http://streamxcode.ddns.net:25461/live/data/ask/5065.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>"	STAR SPORTS 1 HD *
+
+http://streamxcode.ddns.net:25461/live/data/ask/5065.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Sports</thumbnail>
 </item>
 <item>
@@ -2400,8 +2425,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/5065.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/venus.tv-uk.jpg",VENUS TV</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/4434.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",???
-http://streamxcode.ddns.net:25461/live/data/ask/4666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",???
+
+http://streamxcode.ddns.net:25461/live/data/ask/4666.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Pakistani</thumbnail>
 </item>
 <item>
@@ -2442,8 +2469,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/4666.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/dharti.tv.jpg",DHARTI TV</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5096.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",????
-http://streamxcode.ddns.net:25461/live/data/ask/4660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",????
+
+http://streamxcode.ddns.net:25461/live/data/ask/4660.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Pakistani</thumbnail>
 </item>
 <item>
@@ -2789,8 +2818,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/4660.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/movies_ok_in.jpg",MOVIES OK</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/4544.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",?
-http://streamxcode.ddns.net:25461/live/data/ask/5042.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",?
+
+http://streamxcode.ddns.net:25461/live/data/ask/5042.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Indian</thumbnail>
 </item>
 <item>
@@ -2871,8 +2902,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/5042.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/sony_maxhd.jpg",SONY SETMAX HD</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5038.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",??
-http://streamxcode.ddns.net:25461/live/data/ask/4619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",??
+
+http://streamxcode.ddns.net:25461/live/data/ask/4619.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Indian</thumbnail>
 </item>
 <item>
@@ -3043,8 +3076,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/4619.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/channel_v_in.jpg",CHANNEL V</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5114.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",?????
-http://streamxcode.ddns.net:25461/live/data/ask/4559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",?????
+
+http://streamxcode.ddns.net:25461/live/data/ask/4559.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Indian</thumbnail>
 </item>
 <item>
@@ -3185,8 +3220,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/4559.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/home-shop_18.jpg",HOME SHOP 18</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5108.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",??????
-http://streamxcode.ddns.net:25461/live/data/ask/5107.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",??????
+
+http://streamxcode.ddns.net:25461/live/data/ask/5107.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Indian</thumbnail>
 </item>
 <item>
@@ -4747,8 +4784,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/5107.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/news_18_tamil.jpg",NEWS 18</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5447.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>http://logosforapp.ddns.net/logo/nambikai_tv"group-title="TAMIL"	NAMBIKAI TV
-http://streamxcode.ddns.net:25461/live/data/ask/5446.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>http://logosforapp.ddns.net/logo/nambikai_tv"group-title="TAMIL"	NAMBIKAI TV
+
+http://streamxcode.ddns.net:25461/live/data/ask/5446.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Tamil</thumbnail>
 </item>
 <item>
@@ -5414,8 +5453,10 @@ http://streamxcode.ddns.net:25461/live/data/ask/5446.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/movies_now_plus_hd.jpg",MN+ HD</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/3957.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",MNX HD
-http://streamxcode.ddns.net:25461/live/data/ask/4624.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",MNX HD
+
+http://streamxcode.ddns.net:25461/live/data/ask/4624.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="English</thumbnail>
 </item>
 <item>
@@ -5696,15 +5737,19 @@ http://streamxcode.ddns.net:25461/live/data/ask/4624.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/bbo_tv_uk.jpg",BBO TV UKM</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5664.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",BBO TV
-http://streamxcode.ddns.net:25461/live/data/ask/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",BBO TV
+
+http://streamxcode.ddns.net:25461/live/data/ask/4618.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/solid.hindi.new.jpg",SOLID HINDI NEWM</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/4542.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",BBO TV USA
-http://streamxcode.ddns.net:25461/live/data/ask/5898.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",BBO TV USA
+
+http://streamxcode.ddns.net:25461/live/data/ask/5898.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
@@ -5715,22 +5760,28 @@ http://streamxcode.ddns.net:25461/live/data/ask/5898.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="",PAKISTANI FILMS</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5911.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",INDIAN SONGS
-http://streamxcode.ddns.net:25461/live/data/ask/5918.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",INDIAN SONGS
+
+http://streamxcode.ddns.net:25461/live/data/ask/5918.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="",SULTAN RAHI MOVIES</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5913.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",PAKISTANI MOVIES
-http://streamxcode.ddns.net:25461/live/data/ask/5912.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",PAKISTANI MOVIES
+
+http://streamxcode.ddns.net:25461/live/data/ask/5912.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="http://logosforapp.ddns.net/logo/noor_jahan_songs.jpg",NOOR JAHAN SONGSM</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/4369.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",STAGE DRAMA
-http://streamxcode.ddns.net:25461/live/data/ask/5914.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",STAGE DRAMA
+
+http://streamxcode.ddns.net:25461/live/data/ask/5914.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
@@ -5746,22 +5797,28 @@ http://streamxcode.ddns.net:25461/live/data/ask/5914.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="",PUNJABI HITS</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5910.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",BHANGRA TV
-http://streamxcode.ddns.net:25461/live/data/ask/5908.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",BHANGRA TV
+
+http://streamxcode.ddns.net:25461/live/data/ask/5908.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="",BOLBOLAY SERIAL</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5915.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",GIDDHA TV
-http://streamxcode.ddns.net:25461/live/data/ask/5909.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",GIDDHA TV
+
+http://streamxcode.ddns.net:25461/live/data/ask/5909.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="",KAPIL SHARMA SHOW</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5916.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",SHAKTIMAAN SERIAL
-http://streamxcode.ddns.net:25461/live/data/ask/5917.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",SHAKTIMAAN SERIAL
+
+http://streamxcode.ddns.net:25461/live/data/ask/5917.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
@@ -5772,28 +5829,36 @@ http://streamxcode.ddns.net:25461/live/data/ask/5917.ts|refferer=http://solidstr
 <item>
 	<title>tvg-logo="",SOLID MOVIES TAMIL</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5900.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",KBO USA
-http://streamxcode.ddns.net:25461/live/data/ask/5899.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",KBO USA
+
+http://streamxcode.ddns.net:25461/live/data/ask/5899.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="",MBO</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5901.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",MBO UK
-http://streamxcode.ddns.net:25461/live/data/ask/5902.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",MBO UK
+
+http://streamxcode.ddns.net:25461/live/data/ask/5902.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="",SOLID CLASSIC MOVIES</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5904.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",TBO
-http://streamxcode.ddns.net:25461/live/data/ask/5903.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",TBO
+
+http://streamxcode.ddns.net:25461/live/data/ask/5903.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
 <item>
 	<title>tvg-logo="",CLASSIC Marathi</title>
 	<link>http://streamxcode.ddns.net:25461/live/data/ask/5907.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio</link>
-	<thumbnail>",MOVIES BHOJPURI
-http://streamxcode.ddns.net:25461/live/data/ask/5905.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+	<thumbnail>",MOVIES BHOJPURI
+
+http://streamxcode.ddns.net:25461/live/data/ask/5905.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+
 #EXTINF:0, group-title="Movies</thumbnail>
 </item>
