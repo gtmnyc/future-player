@@ -1,9 +1,17 @@
 <dir> 
-    <title>UK List</title> 
+    <title>UK List test</title> 
     <thumbnail></thumbnail> 
     <m3u>https://raw.githubusercontent.com/gtmnyc/future-player/master/jen.m3u</m3u> 
     <fanart></fanart> 
     <info> </info> 
+</dir>
+
+ <dir>
+    <title>Sky Q tv</title>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/nan_tv.xml</link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+  </dir>
 
  <dir>
     <title>UK / USA 1</title>
