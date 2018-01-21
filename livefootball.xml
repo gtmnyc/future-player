@@ -18,12 +18,13 @@
 <fanart></fanart>
 </plugin>
 
+
+
 <item>
-<title> Southampton vs Tottenham Hotspur</title>
-<link>
-<sublink>https://stream-cdn-1.eventials.com/eventialsLiveOrigin/_definst_/ngrp:zadyomnnof77w8ov_all/chunklist_b1580100.m3u8</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+	<title> Southampton vs Tottenham Hotspur</title>
+	<info> Football</info>
+	<link>https://stream-cdn-1.eventials.com/eventialsLiveOrigin/_definst_/ngrp:zadyomnnof77w8ov_all/chunklist_b1580100.m3u8</link>
+	<referer></referer>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
 </item>
