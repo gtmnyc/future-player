@@ -1,8 +1,19 @@
-<dir>
-        <name></name>
-        <link>https://raw.githubusercontent.com/LoopAddon/plugin.video.the-loop/master/FanZone.xml</link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/SkySports.jpg</fanart>
-</dir>
+Loki, [21.01.18 16:46]
+<plugin>
+<title>[COLOR white][16:00 GMT] Southampton vs Tottenham Hotspur[/COLOR]</title>
+<link>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://cd67abada8fc8df3412491a8a03579ba7ef93598(Link 1)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://40ca942688ca8d7d08d79d598749cf1ed7adac12(Link 2)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://2062e71543cdc45c2b15454815712a0743998c4b(Link 3)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570(Link 4)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://89d8b38f63955d444fa8b35ed7500f42e3bf29ef(Link 5)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://878eb1733f53171e3a5f53ba80fc703fc0cc2374(Link 6)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://160ba6a565653dd317762e259c5f277a77155e33(Link 7)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570(Link 8)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://878eb1733f53171e3a5f53ba80fc703fc0cc2374(Link 9)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://89d8b38f63955d444fa8b35ed7500f42e3bf29ef+(Link 10)</sublink>
+<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://160ba6a565653dd317762e259c5f277a77155e33(Link 11)</sublink>
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</plugin>
