@@ -1,29 +1,16 @@
 
-<plugin>
-<title>[COLOR white][16:00 GMT] Southampton vs Tottenham Hotspur[/COLOR]</title>
-<link>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://cd67abada8fc8df3412491a8a03579ba7ef93598(Link 1)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://40ca942688ca8d7d08d79d598749cf1ed7adac12(Link 2)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://2062e71543cdc45c2b15454815712a0743998c4b(Link 3)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570(Link 4)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://89d8b38f63955d444fa8b35ed7500f42e3bf29ef(Link 5)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://878eb1733f53171e3a5f53ba80fc703fc0cc2374(Link 6)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://160ba6a565653dd317762e259c5f277a77155e33(Link 7)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570(Link 8)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://878eb1733f53171e3a5f53ba80fc703fc0cc2374(Link 9)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://89d8b38f63955d444fa8b35ed7500f42e3bf29ef+(Link 10)</sublink>
-<sublink>plugin://program.plexus/?mode=1&amp;url=acestream://160ba6a565653dd317762e259c5f277a77155e33(Link 11)</sublink>
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</plugin>
-
-
-
 <item>
-	<title> Southampton vs Tottenham Hotspur</title>
+	<title>Liverpool v Swansea</title>
 	<info> Football</info>
-	<link>https://stream-cdn-1.eventials.com/eventialsLiveOrigin/_definst_/ngrp:zadyomnnof77w8ov_all/chunklist_b1580100.m3u8</link>
+	<link>
+	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_0_5564000.m3u8(HD)</sublink>
+	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_1_4064000.m3u8(HD)</sublink>
+	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_2_2264000.m3u8(HQ)</sublink>
+	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_3_1464000.m3u8(SD)</sublink>
+	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_4_964000.m3u8(SD)</sublink>
+	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_5_664000.m3u8(SD)</sublink>
+	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_6_364000.m3u8(SD)</sublink>
+	</link>
 	<referer></referer>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
