@@ -1,7 +1,7 @@
 <xml>
   <dir>
-    <title>Formats</title>
-    <link>file://formats/main.xml</link>
+    <title>football highlights</title>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/frmain.xml</link>
   </dir>
 
   <dir>
