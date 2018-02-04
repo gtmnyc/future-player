@@ -1,17 +1,132 @@
+Loki, [04.02.18 13:54]
+<item><name>[COLOR orange]<<<<<<<< FOOTBALL >>>>>>>>[/COLOR]</name><link>http://ignoreme</link><thumbnail></thumbnail><fanart></fanart></item>
 
 <item>
-	<title>Liverpool v Swansea</title>
-	<info> Football</info>
-	<link>
-	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_0_5564000.m3u8(HD)</sublink>
-	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_1_4064000.m3u8(HD)</sublink>
-	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_2_2264000.m3u8(HQ)</sublink>
-	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_3_1464000.m3u8(SD)</sublink>
-	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_4_964000.m3u8(SD)</sublink>
-	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_5_664000.m3u8(SD)</sublink>
-	<sublink>http://sprtlive15.akamaized.net/hls/live/587594/nbc-sports0122094043/exp=1516734439~acl=%2fhls%2flive%2f587594*~data=hdntl~hmac=95f622f5b158cedb85036027e3e61c3da4faaa53040998418dca087c12fd1643/OTT15_VIDEO_6_364000.m3u8(SD)</sublink>
-	</link>
-	<referer></referer>
-	<thumbnail>https://pbs.twimg.com/media/DUIwX4YWAAAuynj.jpg:large</thumbnail>
-	<fanart>https://pbs.twimg.com/media/DUIwX4YWAAAuynj.jpg:large</fanart>
+<name>[COLOR white][14:15 GMT] Crystal Palace vs Newcastle United[/COLOR]</name>
+<link>ignore</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 1[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 2[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 3[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 4[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 5[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 6[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 7[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 8[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 9[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 10[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 11[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 12[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mo
+
+Loki, [04.02.18 13:54]
+de=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 13[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 14[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 15[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 16[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://649fc6cbd093396596ddcd74cf25eb75437736a7&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 17[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://abf4b742bfefb79b85e3a520d9a9bf6ad1317dc3&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 18[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://42874bcf9c8e9da0f5ffa5ebf503c44d2ee41e26&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 19[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8a64c93ad38f5027628601e0e32182e0b0cd7570&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
+ <item>
+  <title>[COLOR cadetblue][14:15 GMT] Crystal Palace vs Newcastle United - [COLOR FFff8397b0][I]Link 20[/COLOR][/I]</title>
+  <link>plugin://program.plexus/?url=acestream://8fce30153d82dc7373a8ed067f979ea6e4c19d02&amp;mode=1&amp;name=Acestream-Live-Event</link>
+  <thumbnail></thumbnail>
+  <fanart></fanart>
+ </item>
