@@ -1,11 +1,8 @@
-
 <item>
 <title>SUPER BOWL </title><info>NFL</info>
-<link>
-<sublink>https://raw.githubusercontent.com/gtmnyc/future-player/master/Superbowl.xml</sublink>
-<link>
+<link>https://raw.githubusercontent.com/gtmnyc/future-player/master/Superbowl.xml</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
-<plugin>
+
 
