@@ -63,7 +63,7 @@
   <plugin>
     <name>Testings</name>
     <link>plugin://plugin.video.jenplugin/?action=developer</link>
-    <thumbnail>https://www.themoviedb.org/assets/static_cache/2dceae11589334eecd61443249261daf/images/v4/logos/208x226-stacked-green.png</thumbnail>
+    <thumbnail>http://linear-scope010.timewarnercable.com/LIVE/1008/hls/ae/COOKE_HD/3400.m3u8?adId=936b40e3-dd5d-4ec5-92fd-0044302382ae</thumbnail>
     <summary>Testings</summary>
   </plugin>
 </xml>
