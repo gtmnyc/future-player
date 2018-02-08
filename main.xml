@@ -60,6 +60,12 @@
 	<thumbnail></thumbnail>
   </dir>
 
+  <dir>
+    <title>TEST</title>
+    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/test.xml</link>
+	<thumbnail></thumbnail>
+  </dir>
+  
   <plugin>
     <name>Testings</name>
     <link>plugin://plugin.video.jenplugin/?action=developer</link>
