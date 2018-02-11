@@ -1,6 +1,6 @@
 
 <item>
-<name>------ [COLORwhite]United States of America Olympic Coverage [/COLOR] ------</name>
+<name>------ United States of America Olympic Coverage  ------</name>
 <thumbnail>https://stillimg.olympic.org/games/280x280/2018_2.png</thumbnail>
 <link></link>
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart>
@@ -8,7 +8,7 @@
 </item>
 
 <item> 
-<title>[COLORdeepskyblue]CNBC - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<title>CNBC - Live coverage of the 2018 Winter Olympics</title>
 <link>http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fp1.iptvprivateserver.tv%3A80%2Flive%2F1dCt2yvVu8%2FJDecAEDGKN%2F299.ts&swf=None&auth=&simpledownloader=False</link> 
 <thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -16,7 +16,7 @@
 </item>
 
 <item> 
-<title>[COLORdeepskyblue]NBC - Live coverage of the 2018 Winter Olympics Link 1[/COLOR]</title>
+<title>NBC - Live coverage of the 2018 Winter Olympics Link 1</title>
 <link>http://live.field59.com/wjfw1/ngrp:wjfw1_all/chunklist_b678000.m3u8</link> 
 <thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -24,7 +24,7 @@
 </item>
 
 <item> 
-<title>[COLORdeepskyblue]NBC - Live coverage of the 2018 Winter Olympics Link 2[/COLOR]</title>
+<title>NBC - Live coverage of the 2018 Winter Olympics Link 2</title>
 <link>http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link> 
 <thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -32,7 +32,7 @@
 </item>
 
 <item> 
-<title>[COLORdeepskyblue]NBCSN - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<title>NBCSN - Live coverage of the 2018 Winter Olympics</title>
 <link>http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/17.ts|User-Agent=AppleCoreMedia12341&mode=12</link> 
 <thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -40,7 +40,7 @@
 </item>
 
 <item> 
-<title>[COLORgold]Sportsnet - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<title>Sportsnet - Live coverage of the 2018 Winter Olympics</title>
 <link>http://31.220.2.149:8081/live/snont/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggMTo1Nzo1MSBBTSZoYXNoX3ZhbHVlPWNid1VmYkpHYVNIR1dYbmpWWFY4K1E9PSZ2YWxpZG1pbnV0ZXM9MTIw|Referer=http%3A%2F%2Fwww.webtv.ws%2Fembed.php%3Flive%3Dsnont%26vw%3D620%26vh%3D490&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36&X-Requested-With=ShockwaveFlash/24.0.0.221</link> 
 <thumbnail>http://assets4.sportsnet.ca/wp-content/uploads/2018/02/pyeongchang_olympics_button-640x280.jpeg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -48,7 +48,7 @@
 </item>
 
 <item> 
-<title>[COLORgold]Sportsnet - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<title>Sportsnet - Live coverage of the 2018 Winter Olympics</title>
 <link>http://31.220.0.194:8081/live/snne/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggMjowMzo1MyBBTSZoYXNoX3ZhbHVlPXc4dHlVZXo0UjJkMXVPQ1dNeWw3S1E9PSZ2YWxpZG1pbnV0ZXM9MTIw|Referer=http%3A%2F%2Fwww.webtv.ws%2Fembed.php%3Flive%3Dsnne%26vw%3D620%26vh%3D490&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36&X-Requested-With=ShockwaveFlash/24.0.0.221</link> 
 <thumbnail>http://assets4.sportsnet.ca/wp-content/uploads/2018/02/pyeongchang_olympics_button-640x280.jpeg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -111,7 +111,7 @@
 </item>
 
 <item>
-<name>------ [COLORwhite]Canada Olympic Coverage [/COLOR] ------</name>
+<name>------ Canada Olympic Coverage  ------</name>
 <thumbnail>https://stillimg.olympic.org/games/280x280/2018_2.png</thumbnail>
 <link></link>
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart>
@@ -119,7 +119,7 @@
 </item>
 
 <item> 
-<title>CBC - Live coverage of the 2018 Winter Olympics East-West[/COLOR]</title>
+<title>CBC - Live coverage of the 2018 Winter Olympics East-West</title>
 <link>https://dai.google.com/linear/hls/p/event/broKxA_5RA2S-6mLRB5ooA/stream/b031095a-4148-4438-bdba-2802c95f100c:CBF/variant/e994303b0821a17ee40e0be478ffd614/bandwidth/3405600.m3u8</link> 
 <thumbnail>http://www.cbc.ca/mediacentre/content/images/PYC2018_-_Release.jpg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -127,7 +127,7 @@
 </item>
 
 <item> 
-<title>CBC - Live coverage of the 2018 Winter Olympics East-West[/COLOR]</title>
+<title>CBC - Live coverage of the 2018 Winter Olympics East-West</title>
 <link>https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8</link> 
 <thumbnail>http://www.cbc.ca/mediacentre/content/images/PYC2018_-_Release.jpg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
@@ -135,7 +135,7 @@
 </item>
 
 <item> 
-<title>CBC - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<title>CBC - Live coverage of the 2018 Winter Olympics</title>
 <link>https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8</link> 
 <thumbnail>http://www.cbc.ca/mediacentre/content/images/PYC2018_-_Release.jpg</thumbnail> 
 <fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
