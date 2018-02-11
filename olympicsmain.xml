@@ -1,0 +1,216 @@
+
+<item>
+<name>------ [COLORwhite]United States of America Olympic Coverage [/COLOR] ------</name>
+<thumbnail>https://stillimg.olympic.org/games/280x280/2018_2.png</thumbnail>
+<link></link>
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart>
+<summary></summary>
+</item>
+
+<item> 
+<title>[COLORdeepskyblue]CNBC - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<link>http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fp1.iptvprivateserver.tv%3A80%2Flive%2F1dCt2yvVu8%2FJDecAEDGKN%2F299.ts&swf=None&auth=&simpledownloader=False</link> 
+<thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item> 
+<title>[COLORdeepskyblue]NBC - Live coverage of the 2018 Winter Olympics Link 1[/COLOR]</title>
+<link>http://live.field59.com/wjfw1/ngrp:wjfw1_all/chunklist_b678000.m3u8</link> 
+<thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item> 
+<title>[COLORdeepskyblue]NBC - Live coverage of the 2018 Winter Olympics Link 2[/COLOR]</title>
+<link>http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link> 
+<thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item> 
+<title>[COLORdeepskyblue]NBCSN - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<link>http://live1.livetvindia.co.in:8000/live/Sposkerjk/dfkjhke134/17.ts|User-Agent=AppleCoreMedia12341&mode=12</link> 
+<thumbnail>http://media.philly.com/images/RS_phillyThumb2_1200x800_20170329_nbcolympicslogo.jpg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item> 
+<title>[COLORgold]Sportsnet - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<link>http://31.220.2.149:8081/live/snont/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggMTo1Nzo1MSBBTSZoYXNoX3ZhbHVlPWNid1VmYkpHYVNIR1dYbmpWWFY4K1E9PSZ2YWxpZG1pbnV0ZXM9MTIw|Referer=http%3A%2F%2Fwww.webtv.ws%2Fembed.php%3Flive%3Dsnont%26vw%3D620%26vh%3D490&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36&X-Requested-With=ShockwaveFlash/24.0.0.221</link> 
+<thumbnail>http://assets4.sportsnet.ca/wp-content/uploads/2018/02/pyeongchang_olympics_button-640x280.jpeg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item> 
+<title>[COLORgold]Sportsnet - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<link>http://31.220.0.194:8081/live/snne/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi84LzIwMTggMjowMzo1MyBBTSZoYXNoX3ZhbHVlPXc4dHlVZXo0UjJkMXVPQ1dNeWw3S1E9PSZ2YWxpZG1pbnV0ZXM9MTIw|Referer=http%3A%2F%2Fwww.webtv.ws%2Fembed.php%3Flive%3Dsnne%26vw%3D620%26vh%3D490&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36&X-Requested-With=ShockwaveFlash/24.0.0.221</link> 
+<thumbnail>http://assets4.sportsnet.ca/wp-content/uploads/2018/02/pyeongchang_olympics_button-640x280.jpeg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item>
+<title>2018 Olympics - Channel 1</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8(HD 1080)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8(HD 720)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_5_2264000.m3u8(SD 576)</sublink>
+</link>
+<thumnail>https://www.olympicchannel.com/static/images/logo-inline@2x.png</thumnail>
+<fanart>https://images.olympicchannel.com/media/images/stills/content/9569/5a670b4b2cb0fb0869c504dc580da556.jpg</fanart>
+</item>
+
+<item>
+<title>2018 Olympics - Channel 2</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel02b/NBC_OCS2_VIDEO_7_6064000.m3u8(HD 1080)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel02b/NBC_OCS2_VIDEO_6_3514000.m3u8(HD 720)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel02b/NBC_OCS2_VIDEO_5_2264000.m3u8(SD 576)</sublink>
+</link>
+<thumnail>https://www.olympicchannel.com/static/images/logo-inline@2x.png</thumnail>
+<fanart>https://images.olympicchannel.com/media/images/stills/content/9569/5a670b4b2cb0fb0869c504dc580da556.jpg</fanart>
+</item>
+
+<item>
+<title>2018 Olympics - Channel 3</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel03b/NBC_OCS3_VIDEO_7_6064000.m3u8(HD 1080)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel03b/NBC_OCS3_VIDEO_6_3514000.m3u8(HD 720)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel03b/NBC_OCS3_VIDEO_5_2264000.m3u8(SD 576)</sublink>
+</link>
+<thumnail>https://www.olympicchannel.com/static/images/logo-inline@2x.png</thumnail>
+<fanart>https://images.olympicchannel.com/media/images/stills/content/9569/5a670b4b2cb0fb0869c504dc580da556.jpg</fanart>
+</item>
+
+<item>
+<title>2018 Olympics - Channel 4</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel04b/NBC_OCS4_VIDEO_7_6064000.m3u8(HD 1080)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel04b/NBC_OCS4_VIDEO_6_3514000.m3u8(HD 720)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel04b/NBC_OCS4_VIDEO_5_2264000.m3u8(SD 576)</sublink>
+</link>
+<thumnail>https://www.olympicchannel.com/static/images/logo-inline@2x.png</thumnail>
+<fanart>https://images.olympicchannel.com/media/images/stills/content/9569/5a670b4b2cb0fb0869c504dc580da556.jpg</fanart>
+</item>
+
+<item>
+<title>2018 Olympics - Channel 5</title>
+<link>
+<sublink>https://live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_7_6064000.m3u8(HD 1080)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_6_3514000.m3u8(HD 720)</sublink>
+<sublink>https://live.olympicchannel.com/ocs/channel05b/NBC_OCS5_VIDEO_5_2264000.m3u8(SD 576)</sublink>
+</link>
+<thumnail>https://www.olympicchannel.com/static/images/logo-inline@2x.png</thumnail>
+<fanart>https://images.olympicchannel.com/media/images/stills/content/9569/5a670b4b2cb0fb0869c504dc580da556.jpg</fanart>
+</item>
+
+<item>
+<name>------ [COLORwhite]Canada Olympic Coverage [/COLOR] ------</name>
+<thumbnail>https://stillimg.olympic.org/games/280x280/2018_2.png</thumbnail>
+<link></link>
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart>
+<summary></summary>
+</item>
+
+<item> 
+<title>CBC - Live coverage of the 2018 Winter Olympics East-West[/COLOR]</title>
+<link>https://dai.google.com/linear/hls/p/event/broKxA_5RA2S-6mLRB5ooA/stream/b031095a-4148-4438-bdba-2802c95f100c:CBF/variant/e994303b0821a17ee40e0be478ffd614/bandwidth/3405600.m3u8</link> 
+<thumbnail>http://www.cbc.ca/mediacentre/content/images/PYC2018_-_Release.jpg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item> 
+<title>CBC - Live coverage of the 2018 Winter Olympics East-West[/COLOR]</title>
+<link>https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8</link> 
+<thumbnail>http://www.cbc.ca/mediacentre/content/images/PYC2018_-_Release.jpg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item> 
+<title>CBC - Live coverage of the 2018 Winter Olympics[/COLOR]</title>
+<link>https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8</link> 
+<thumbnail>http://www.cbc.ca/mediacentre/content/images/PYC2018_-_Release.jpg</thumbnail> 
+<fanart>https://i.ytimg.com/vi/bsygyNKSpN0/maxresdefault.jpg</fanart> 
+<info></info> 
+</item>
+
+<item>
+<title> Eurosport 1 - UK</title>
+<link>
+<sublink>http://185.39.10.73:1935/tv/s6qRxcmwJy20171105/chunklist_w1072652416_tkaGxzZW5kdGltZT0xNTE4MzgyNzQwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9NGI4aHdiVUkyTW1JTU43ZXk4UUR5Mm9oU3N6QV83bW1vQjBDM1NWSDBWND0=.m3u8</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumnail>http://1.bp.blogspot.com/-pD-YyS892YE/TWKdMoVuVbI/AAAAAAAAARU/AnfCyQsIUo4/s1600/Eurosport+logo+2011+on+black.png.png</thumnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Eurosport 2 - UK</title>
+<link>
+<sublink>http://185.39.10.69:1935/tv/fr2GpsLtwn20171105/playlist.m3u8?hlsendtime=1518383040&hlsstarttime=0&hlshash=qb0XEiytpXQu0ZYjy0JOSLesTIWhixt_yCRsTwRDLcU=</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumnail>http://1.bp.blogspot.com/-pD-YyS892YE/TWKdMoVuVbI/AAAAAAAAARU/AnfCyQsIUo4/s1600/Eurosport+logo+2011+on+black.png.png</thumnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>BBC Red Button (UK only)</title>
+<link>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8(Red Button 1)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_02.m3u8(Red Button 2)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_03.m3u8(Red Button 3)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_04.m3u8(Red Button 4)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_05.m3u8(Red Button 5)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_06.m3u8(Red Button 6)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_07.m3u8(Red Button 7)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_08.m3u8(Red Button 8)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_09.m3u8(Red Button 9)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_10.m3u8(Red Button 10)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_11.m3u8(Red Button 11)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_12.m3u8(Red Button 12)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_13.m3u8(Red Button 13)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_14.m3u8(Red Button 14)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_15.m3u8(Red Button 15)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_16.m3u8(Red Button 16)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_17.m3u8(Red Button 17)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_18.m3u8(Red Button 18)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_19.m3u8(Red Button 19)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_20.m3u8(Red Button 20)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_21.m3u8(Red Button 21)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_22.m3u8(Red Button 22)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_23.m3u8(Red Button 23)</sublink>
+  <sublink>http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_24.m3u8(Red Button 24)</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumnail></thumnail>
+<fanart></fanart>
+</item>
+    BBC1
+    BBC2
+    BBC4
+  
+    Eurosport 1 - UK
+    Eurosport 2 - UK
+    Eurosport 3
+    Eurosport 4
+    Eurosport 5
