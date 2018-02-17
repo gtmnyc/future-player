@@ -3,7 +3,10 @@
 
  <item>
 	<name>[COLOR white] Hudersfield vs United[/COLOR]</name>
-	<link>http://192.99.45.223:8081/wms/ch15q1.stream/chunks.m3u8?nimblesessionid=37516&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDE4IDY6MDI6MzEgUE0maGFzaF92YWx1ZT1MQTJPZlYwRzVmQWlqNXRTUU9zdFh3PT0mdmFsaWRtaW51dGVzPTU=</link>
+	<link>
+	<sublink>http://192.99.45.223:8081/wms/ch15q1.stream/chunks.m3u8?nimblesessionid=37516&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDE4IDY6MDI6MzEgUE0maGFzaF92YWx1ZT1MQTJPZlYwRzVmQWlqNXRTUU9zdFh3PT0mdmFsaWRtaW51dGVzPTU=</sublink>
+	<sublink>http://sportstv-1872968023.us-west-1.elb.amazonaws.com/tv/d3h2bh4k8bq46f_fs2_12.m3u8|User-Agent=AppleCoreMedia/1.0.0.8C167a</sublink>
+	</link>
 	<thumbnail>https://i0.wp.com/www.fullmatchesandshows.com/wp-content/uploads/2018/02/Huddersfield-Town-vs-Manchester-United.jpg?resize=324%2C160</thumbnail>
 	<fanart>https://i0.wp.com/www.fullmatchesandshows.com/wp-content/uploads/2018/02/Huddersfield-Town-vs-Manchester-United.jpg?resize=324%2C160</fanart>
  </item>
