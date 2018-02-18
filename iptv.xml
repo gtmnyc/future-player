@@ -15,7 +15,7 @@
 
  <dir>
     <title>USA NETWORK TV</title>
-    <link>https://raw.githubusercontent.com/gtmnyc/future-player/master/ustvnow.xml</link>
+    <m3u>https://raw.githubusercontent.com/gtmnyc/future-player/master/ustvnow.m3u</m3u>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
   </dir>
