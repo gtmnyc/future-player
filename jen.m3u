@@ -1,5 +1,5 @@
 #EXTINF:0, group-title="English",tvg-logo="http://logosforapp.ddns.net/logo/tg4.jpg",TG4
-http://streamxcode.ddns.net:25461/live/data/ask/3930.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
+https://gcs-streams-prod.fubo.tv/WCBS/F0001/media-5999760.m3u8
 #EXTINF:0, group-title="English",tvg-logo="http://logosforapp.ddns.net/logo/comedy_central_us.jpg",COMEDY CENTRAL
 http://streamxcode.ddns.net:25461/live/data/ask/610.ts|refferer=http://solidstreamz.com/api/soliddata.php&user-agent=uio
 #EXTINF:0, group-title="English",tvg-logo="http://logosforapp.ddns.net/logo/dave_uktv.jpg",DAVE
